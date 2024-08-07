@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jishanahmed-shaikh
-- 🌱 My Career expertise is on Cloud+Data Science and Game Development.
+- 🌱 My Career expertise is on Data Science,Cloud and Game Development(AR/VR).
 - 👀 I’m interested in Python ,IoT Based Projects, Data Science , Cloud based Technologies and Game Development.
 - 🌱 I’m currently learning Data Science based Stack such as ML Models Building, Prediction Models, Advanced Excel, R, Tableau and PowerBi.
 - 💞️ I’m looking to collaborate on My Interests and specifically Data Science based projects.
