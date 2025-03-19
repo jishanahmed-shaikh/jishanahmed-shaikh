@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mihaillo29" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jishanahmed-shaikh" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&width=435&lines=I'm+Jishanahmed+Shaikh!" />
@@ -48,10 +48,10 @@
 
 <h2 align="left">⚡ Stats ⚡</h2>
 <br>
-<p><img align="center" length=1350 height=300 src="https://github-readme-streak-stats.herokuapp.com/?user=Mihaillo29&theme=react&hide_border=false" alt="rahilshaikh" /></p>
-
-  <img width=350 align="left" src="https://github-readme-stats.vercel.app/api?username=Mihaillo29&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="readme stats" />
-  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mihaillo29&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="top languages" />
+<p>
+  <img align="center" length=1350 height=300 src="https://github-readme-streak-stats.herokuapp.com/?user=jishanahmed-shaikh&theme=tokyonight&hide_border=true" /></p>
+  <img width=350 align="left" src="https://github-readme-stats.vercel.app/api?username=jishanahmed-shaikh&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jishanahmed-shaikh&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="top languages" />
 </div>
 <br/>
 
