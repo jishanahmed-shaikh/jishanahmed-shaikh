@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&width=435&lines=I'm+Jishanahmed+Shaikh!" />
 </h1>
 
-<h3 align="left">Hi, I'm Rahil Shaikh! With a passion for tech, I strive to create, learn, and innovate. Let’s team up to turn ideas into impactful projects!</h3>
+<h3 align="left">Hi, I'm Jishanahmed Shaikh! With a passion for tech, I strive to create, learn, and innovate. Let’s team up to turn ideas into impactful projects!</h3>
 
 <br/>
 
@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **LangChain & Natural Language Processing**
 
-  📫 How to reach me **mohdrahilshaikh360@apsit.edu.in**
+  📫 How to reach me **jishanahmedshaikh@gmail.com**
  </div>
 
 <div align="left"> 
