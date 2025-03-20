@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **LangChain & Natural Language Processing**
 
-  📫 How to reach me **jishanahmedshaikh@gmail.com**
+  📫 How to reach me **shaikhjishan255@gmail.com / jishanahmedshaikh@gmail.com**
  </div>
 
 <div align="left"> 
