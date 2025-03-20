@@ -19,7 +19,8 @@
 
 <div align="left"> 
   <h2 align="left">Connect with me:</h2>
-  <a href="https://www.linkedin.com/in/jishanahmedshaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahil-shaikh-636071252" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/jishanahmedshaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jishanahmed AR Shaikh" height="30" width="40" /></a>
+    <a href="https://www.youtube.com/@jishanahmedarshaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Jishanahmed AR Shaikh" height="30" width="40" /></a>
   </div>
 
 
