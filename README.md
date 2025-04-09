@@ -89,7 +89,6 @@ I'm always exploring, building, and helping others learn along the way 🚀
 
   <!-- New Tech Skills -->
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL"/>
-  <img src="https://img.icons8.com/fluency/48/000000/firebase.png" title="Firebase"/>
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" title="PostgreSQL"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Code"/>
   <img src="https://img.icons8.com/color/48/000000/docker.png" title="Docker"/>
@@ -98,8 +97,6 @@ I'm always exploring, building, and helping others learn along the way 🚀
   <img src="https://img.icons8.com/color/48/000000/gitlab.png" title="GitLab"/>
   <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" title="Android Studio"/>
   <img src="https://img.icons8.com/color/48/000000/flutter.png" title="Flutter"/>
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/vercel.png" style="background-color:black" title="Vercel"/>
-  <img src="https://img.icons8.com/color/48/000000/netlify.png" title="Netlify"/>
   <img src="https://img.icons8.com/color/48/000000/heroku.png" title="Heroku"/>
 </p>
 
