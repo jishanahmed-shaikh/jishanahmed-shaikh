@@ -42,7 +42,8 @@ I'm always exploring, building, and helping others learn along the way 🚀
 </a>  
 <br/>
 <br>
-📧 Email: **shaikhjishan255@gmail.com / jishanahmedshaikh@gmail.com**
+
+## 📧 Email: shaikhjishan255@gmail.com / jishanahmedshaikh@gmail.com
 
 ---
 
