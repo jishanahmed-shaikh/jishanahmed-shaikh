@@ -49,85 +49,74 @@ I'm always exploring, building, and helping others learn along the way 🚀
 ## ⚒️ Languages - Frameworks - Tools
 
 <p align="left">
-  <!-- Programming & Markup -->
+  <!-- Programming Languages -->
   <img src="https://img.icons8.com/color/48/000000/python.png" title="Python"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="JavaScript"/>
   <img src="https://img.icons8.com/color/48/000000/typescript.png" title="TypeScript"/>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="HTML5"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++"/>
-  <img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png" title="Java"/>
-  <img src="https://img.icons8.com/color/48/000000/bash.png" title="Bash"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java"/>
 
-  <!-- Frameworks & Libraries -->
-  <img src="https://img.icons8.com/color/48/null/react-native.png" title="React Native"/>
-  <img src="https://img.icons8.com/color/48/null/nodejs.png" title="Node.js"/>
-  <img src="https://img.icons8.com/color/48/null/nextjs.png" title="Next.js" style="background:#fff; border-radius:8px"/>
-  <img src="https://img.icons8.com/color/48/null/vue-js.png" title="Vue.js"/>
-  <img src="https://img.icons8.com/color/48/000000/redux.png" title="Redux"/>
-  <img src="https://img.icons8.com/color/48/null/express-js.png" title="Express"/>
+  <!-- Cloud / Database -->
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" title="Firebase"/>
+  <img src="https://img.icons8.com/external-flat-juicy-fish/48/external-sql-coding-and-development-flat-flat-juicy-fish.png" title="SQL"/>
+  <img src="https://img.icons8.com/color/48/000000/google-cloud.png" title="Google Cloud"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-azure.png" title="Azure"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" title="Docker"/>
+  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" title="Kubernetes"/>
+
+  <!-- Frameworks / Libraries -->
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" title="Node.js"/>
+  <img src="https://img.icons8.com/fluency/48/nextjs.png" title="Next.js"/>
+  <img src="https://img.icons8.com/color/48/000000/vue-js.png" title="Vue.js"/>
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/express-js.png" title="Express"/>
   <img src="https://img.icons8.com/color/48/null/vite.png" title="Vite"/>
-
-  <!-- Databases -->
-  <img src="https://img.icons8.com/color/48/null/mongodb.png" title="MongoDB"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL"/>
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" title="PostgreSQL"/>
-  <img src="https://img.icons8.com/ios-filled/48/26e07f/firebase.png" title="Firebase"/>
-  <img src="https://img.icons8.com/ios/50/26e07f/sql.png" title="SQL"/>
 
-  <!-- Cloud & DevOps -->
-  <img src="https://img.icons8.com/fluency/48/000000/google-cloud.png" title="Google Cloud"/>
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS"/>
-  <img src="https://img.icons8.com/color/48/000000/azure-1.png" title="Azure"/>
-  <img src="https://img.icons8.com/color/48/000000/docker.png" title="Docker"/>
-  <img src="https://img.icons8.com/ios-filled/50/26e07f/kubernetes.png" title="Kubernetes"/>
+  <!-- DevOps & Hosting -->
   <img src="https://img.icons8.com/color/48/000000/jenkins.png" title="Jenkins"/>
-  <img src="https://img.icons8.com/color/48/000000/github-actions.png" title="GitHub Actions"/>
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" title="Postman"/>
-
-  <!-- Hosting & Deployment -->
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/vercel.png" style="background-color:black" title="Vercel"/>
+  <img src="https://img.icons8.com/color/48/000000/github--v1.png" title="GitHub Actions"/>
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="48" title="Vercel"/>
   <img src="https://img.icons8.com/color/48/000000/netlify.png" title="Netlify"/>
   <img src="https://img.icons8.com/color/48/000000/heroku.png" title="Heroku"/>
   <img src="https://img.icons8.com/color/48/000000/cloudflare.png" title="Cloudflare"/>
 
-  <!-- Tools & Platforms -->
+  <!-- Tools & IDEs -->
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Code"/>
+  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" title="IntelliJ"/>
+  <img src="https://img.icons8.com/ios-filled/48/26e07f/console.png" title="Terminal"/>
+  <img src="https://img.icons8.com/ios-filled/50/26e07f/github.png" title="GitHub"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/>
   <img src="https://img.icons8.com/color/48/000000/gitlab.png" title="GitLab"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Code"/>
-  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" title="IntelliJ IDEA"/>
-  <img src="https://img.icons8.com/ios-filled/50/26e07f/terminal.png" title="Terminal"/>
-  <img src="https://img.icons8.com/ios-filled/50/26e07f/github.png" title="GitHub"/>
 
-  <!-- Linux Distros -->
-  <img src="https://img.icons8.com/ios-filled/50/26e07f/linux.png" title="Linux"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" height="48" title="Linux Mint"/>
+  <!-- OS -->
   <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" title="Ubuntu"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Lubuntu_logo_only.svg" height="48" title="Lubuntu"/>
-
-  <!-- AI/ML & Data -->
-  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" title="TensorFlow"/>
-  <img src="https://img.icons8.com/color/48/000000/pytorch.png" title="PyTorch"/>
-  <img src="https://img.icons8.com/external-outline-juicy-fish/48/000000/external-openai-artificial-intelligence-outline-outline-juicy-fish.png" title="OpenAI"/>
-  <img src="https://img.icons8.com/color/48/000000/jupyter.png" title="Jupyter"/>
-  <img src="https://img.icons8.com/color/48/000000/pandas.png" title="Pandas"/>
-  <img src="https://img.icons8.com/color/48/000000/numpy.png" title="NumPy"/>
-  <img src="https://img.icons8.com/color/48/000000/matplotlib.png" title="Matplotlib"/>
-
-  <!-- IoT & Hardware -->
-  <img src="https://img.icons8.com/ios/50/26e07f/arduino.png" title="Arduino"/>
+  <img src="https://img.icons8.com/color/48/000000/linux-mint.png" title="Linux Mint"/>
   <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png" title="Raspberry Pi"/>
 
-  <!-- Design & UI -->
+  <!-- AI/ML -->
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" title="TensorFlow"/>
+  <img src="https://img.icons8.com/color/48/000000/pytorch.png" title="PyTorch"/>
+  <img src="https://img.icons8.com/fluency/48/null/openai.png" title="OpenAI"/>
+  <img src="https://img.icons8.com/fluency/48/null/jupyter.png" title="Jupyter"/>
+  <img src="https://img.icons8.com/fluency/48/null/combo-chart.png" title="Matplotlib"/>
+
+  <!-- UI/UX Tools -->
   <img src="https://img.icons8.com/color/48/000000/figma--v1.png" title="Figma"/>
   <img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png" title="Adobe XD"/>
   <img src="https://img.icons8.com/color/48/000000/blender-3d.png" title="Blender"/>
-  <img src="https://raw.githubusercontent.com/shadcn/ui/main/apps/www/public/favicon.ico" width="40" title="shadcn/ui"/>
 
-  <!-- Bonus - Browsers & API Tools -->
-  <img src="https://img.icons8.com/color/48/000000/chrome--v1.png" title="Chrome DevTools"/>
-  <img src="https://img.icons8.com/color/48/000000/edge.png" title="Edge"/>
-  <img src="https://img.icons8.com/ios/50/26e07f/api-settings.png" title="REST APIs"/>
+  <!-- Misc -->
+  <img src="https://img.icons8.com/color/48/000000/google-chrome.png" title="Chrome"/>
+  <img src="https://img.icons8.com/color/48/000000/ms-edge-new.png" title="Edge"/>
+  <img src="https://img.icons8.com/external-flat-juicy-fish/48/external-api-web-development-flat-flat-juicy-fish.png" title="API"/>
+
+  <!-- ShadCN UI -->
+  <img src="https://raw.githubusercontent.com/shadcn/ui/main/apps/www/public/favicon.ico" width="40" title="shadcn/ui" />
 </p>
 
 
