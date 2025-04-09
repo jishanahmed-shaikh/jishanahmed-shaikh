@@ -7,7 +7,12 @@
 <h3 align="left">
 Hi, I'm Jishanahmed Shaikh! 👋  
 A passionate tech enthusiast blending creativity with code to bring innovative ideas to life.  
-Whether it's in AI, AR/VR, Cloud, or full-stack development—I'm always exploring, building, and helping others learn along the way 🚀
+Whether it's in 
+- AI, 
+- Cloud,
+- AR/VR,
+- Full-Stack development
+I'm always exploring, building, and helping others learn along the way 🚀
 </h3>
 
 ---
