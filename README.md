@@ -76,7 +76,7 @@ I'm always exploring, building, and helping others learn along the way 🚀
   <img src="https://img.icons8.com/color/48/null/c-programming.png"/>
   <img src="https://img.icons8.com/ios-filled/50/26e07f/github.png"/>
   <img src="https://img.icons8.com/ios-filled/50/26e07f/linux.png"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" height="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg"/>
   <img src="https://img.icons8.com/color/48/000000/fedora.png"/>
   <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Lubuntu_logo_only.svg" height="48"/>
