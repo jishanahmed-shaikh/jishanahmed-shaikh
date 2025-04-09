@@ -36,7 +36,7 @@ I'm always exploring, building, and helping others learn along the way 🚀
 <a href="https://www.linkedin.com/in/jishanahmedshaikh" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
-<br>
+
 <a href="https://www.youtube.com/@jishanahmedarshaikh" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
 </a>  
