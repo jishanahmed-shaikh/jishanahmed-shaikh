@@ -137,7 +137,7 @@ I'm always exploring, building, and helping others learn along the way 🚀
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="openai" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/openai.svg" alt="openai" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
 </p>
@@ -170,9 +170,8 @@ I'm always exploring, building, and helping others learn along the way 🚀
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="chrome" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg" alt="firefox" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/swagger/swagger-icon.svg" alt="swagger" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/>
-</p>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/swagger.svg" alt="swagger" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/zapier.svg" alt="zapier" width="40" height="40"/>
 
 ---
 
