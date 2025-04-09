@@ -14,7 +14,7 @@ Whether it's in AI, AR/VR, Cloud, or full-stack development—I'm always explori
 
 ## 🔭 Current Projects
 - 🚀 Working on a **Student Learning Assistant** powered by AI Agents & NLP for smarter, more personalized learning.
-- 🧠 Conducted sessions and mentored over **600+ students** in **Google Cloud, AI/ML, and AR/VR** as part of GDG on Campus.
+- 🧠 Conducted sessions and mentored over **2000+ students** in **Google Cloud, AI/ML, and AR/VR** as part of Google, Google Dev Communities, Snap Inc and Multiple Tech. Initiatives.
 - 🧪 Exploring **LangChain, Generative AI**, and building intelligent tools with advanced **NLP pipelines**.
 
 ---
@@ -35,24 +35,45 @@ Whether it's in AI, AR/VR, Cloud, or full-stack development—I'm always explori
 ## ⚒️ Languages - Frameworks - Tools
 
 <p align="left">
-    <img src="https://img.icons8.com/color/48/000000/python.png"/>
-    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png"/>
-    <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-    <img src="https://img.icons8.com/fluency/48/null/unity.png"/>
-    <img src="https://img.icons8.com/fluency/48/000000/google-cloud.png"/>
-    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
-    <img src="https://img.icons8.com/ios/50/26e07f/arduino.png"/>
-    <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png"/>
-    <img src="https://img.icons8.com/color/48/null/c-programming.png"/>
-    <img src="https://img.icons8.com/ios-filled/50/26e07f/github.png"/>
-    <img src="https://img.icons8.com/material-outlined/48/26e07f/linux.png"/>
-    <img src="https://img.icons8.com/ios-filled/48/26e07f/console.png"/>
-    <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
-    <img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"/>
-    <img src="https://img.icons8.com/color/48/000000/blender-3d.png"/>
+  <!-- Programming & Markup -->
+  <img src="https://img.icons8.com/color/48/000000/python.png"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+  
+  <!-- Frameworks & Stacks -->
+  <img src="https://img.icons8.com/color/48/null/react-native.png"/>
+  <img src="https://img.icons8.com/color/48/null/nodejs.png"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png"/>
+  <img src="https://img.icons8.com/fluency/48/000000/firebase.png"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-express-js-a-web-application-framework-for-node-js-logo-color-tal-revivo.png" />
+  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/>
+  <img src="https://img.icons8.com/color/48/null/vite.png" />
+  <img src="https://img.icons8.com/ios-filled/50/26e07f/vercel.png"/>
+  
+  <!-- MERN Logo (custom approach) -->
+  <img src="https://img.icons8.com/color/48/null/mongodb.png" title="MongoDB"/>
+  <img src="https://img.icons8.com/color/48/null/express-js.png" title="Express"/>
+  <img src="https://img.icons8.com/color/48/null/react-native.png" title="React"/>
+  <img src="https://img.icons8.com/color/48/null/nodejs.png" title="Node.js"/>
+  
+  <!-- Others -->
+  <img src="https://img.icons8.com/fluency/48/null/unity.png"/>
+  <img src="https://img.icons8.com/fluency/48/000000/google-cloud.png"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+  <img src="https://img.icons8.com/ios/50/26e07f/arduino.png"/>
+  <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png"/>
+  <img src="https://img.icons8.com/color/48/null/c-programming.png"/>
+  <img src="https://img.icons8.com/ios-filled/50/26e07f/github.png"/>
+  <img src="https://img.icons8.com/material-outlined/48/26e07f/linux.png"/>
+  <img src="https://img.icons8.com/ios-filled/48/26e07f/console.png"/>
+  <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/blender-3d.png"/>
+
+  <!-- ShadCN UI -->
+  <img src="https://raw.githubusercontent.com/shadcn/ui/main/apps/www/public/favicon.ico" width="40" title="shadcn/ui" />
 </p>
 
 ---
