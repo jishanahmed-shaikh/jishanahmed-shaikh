@@ -60,17 +60,12 @@ I'm always exploring, building, and helping others learn along the way 🚀
   <img src="https://img.icons8.com/color/48/null/react-native.png"/>
   <img src="https://img.icons8.com/color/48/null/nodejs.png"/>
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png"/>
-  <img src="https://img.icons8.com/fluency/48/000000/firebase.png"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-express-js-a-web-application-framework-for-node-js-logo-color-tal-revivo.png" />
   <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/>
   <img src="https://img.icons8.com/color/48/null/vite.png" />
-  <img src="https://img.icons8.com/ios-filled/50/26e07f/vercel.png"/>
   
   <!-- MERN Logo (custom approach) -->
   <img src="https://img.icons8.com/color/48/null/mongodb.png" title="MongoDB"/>
   <img src="https://img.icons8.com/color/48/null/express-js.png" title="Express"/>
-  <img src="https://img.icons8.com/color/48/null/react-native.png" title="React"/>
-  <img src="https://img.icons8.com/color/48/null/nodejs.png" title="Node.js"/>
   
   <!-- Others -->
   <img src="https://img.icons8.com/fluency/48/null/unity.png"/>
@@ -80,7 +75,11 @@ I'm always exploring, building, and helping others learn along the way 🚀
   <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png"/>
   <img src="https://img.icons8.com/color/48/null/c-programming.png"/>
   <img src="https://img.icons8.com/ios-filled/50/26e07f/github.png"/>
-  <img src="https://img.icons8.com/material-outlined/48/26e07f/linux.png"/>
+  <img src="https://img.icons8.com/ios-filled/50/26e07f/linux.png"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/fedora.png"/>
+  <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Lubuntu_logo_only.svg" height="48"/>
   <img src="https://img.icons8.com/ios-filled/48/26e07f/console.png"/>
   <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"/>
