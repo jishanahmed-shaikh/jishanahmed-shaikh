@@ -48,77 +48,131 @@ I'm always exploring, building, and helping others learn along the way 🚀
 
 ## ⚒️ Languages - Frameworks - Tools
 
+<h3 align="left">Programming Languages</h3>
 <p align="left">
-  <!-- Programming Languages -->
-  <img src="https://img.icons8.com/color/48/000000/python.png" title="Python"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/000000/typescript.png" title="TypeScript"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="HTML5"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java"/>
-
-  <!-- Cloud / DB -->
-  <img src="https://img.icons8.com/color/48/000000/firebase.png" title="Firebase"/>
-  <img src="https://img.icons8.com/external-flat-juicy-fish/48/external-sql-coding-and-development-flat-flat-juicy-fish.png" title="SQL"/>
-  <img src="https://img.icons8.com/color/48/000000/google-cloud.png" title="Google Cloud"/>
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-azure.png" title="Azure"/>
-  <img src="https://img.icons8.com/color/48/000000/docker.png" title="Docker"/>
-  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" title="Kubernetes"/>
-
-  <!-- Frameworks & Libraries -->
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" title="Node.js"/>
-  <img src="https://img.icons8.com/fluency/48/null/nextjs.png" title="Next.js"/>
-  <img src="https://img.icons8.com/color/48/000000/vue-js.png" title="Vue.js"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="48" title="Express.js"/>
-  <img src="https://img.icons8.com/color/48/000000/vite.png" title="Vite"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL"/>
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" title="PostgreSQL"/>
-
-  <!-- Hosting / DevOps -->
-  <img src="https://img.icons8.com/color/48/000000/jenkins.png" title="Jenkins"/>
-  <img src="https://img.icons8.com/color/48/000000/github--v1.png" title="GitHub"/>
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="48" title="Vercel"/>
-  <img src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" width="48" title="Netlify"/>
-  <img src="https://img.icons8.com/color/48/000000/heroku.png" title="Heroku"/>
-  <img src="https://img.icons8.com/color/48/000000/cloudflare.png" title="Cloudflare"/>
-
-  <!-- IDEs & Version Control -->
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Code"/>
-  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" title="IntelliJ"/>
-  <img src="https://img.icons8.com/ios-filled/48/26e07f/console.png" title="Terminal"/>
-  <img src="https://img.icons8.com/ios-filled/50/26e07f/github.png" title="GitHub"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/>
-  <img src="https://img.icons8.com/color/48/000000/gitlab.png" title="GitLab"/>
-
-  <!-- OS -->
-  <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" title="Ubuntu"/>
-  <img src="https://img.icons8.com/color/48/000000/linux-mint.png" title="Linux Mint"/>
-  <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png" title="Raspberry Pi"/>
-
-  <!-- AI/ML -->
-  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" title="TensorFlow"/>
-  <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="48" title="PyTorch"/>
-  <img src="https://seeklogo.com/images/O/open-ai-logo-8B9BFEDC26-seeklogo.com.png" width="48" title="OpenAI"/>
-  <img src="https://img.icons8.com/fluency/48/null/jupyter.png" title="Jupyter"/>
-  <img src="https://img.icons8.com/fluency/48/null/combo-chart.png" title="Matplotlib"/>
-
-  <!-- Design -->
-  <img src="https://img.icons8.com/color/48/000000/figma--v1.png" title="Figma"/>
-  <img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png" title="Adobe XD"/>
-  <img src="https://img.icons8.com/color/48/000000/blender-3d.png" title="Blender"/>
-
-  <!-- Browsers / Misc -->
-  <img src="https://img.icons8.com/color/48/000000/google-chrome.png" title="Chrome"/>
-  <img src="https://img.icons8.com/color/48/000000/ms-edge-new.png" title="Edge"/>
-  <img src="https://img.icons8.com/fluency/48/api-settings.png" title="API"/>
-
-  <!-- ShadCN UI -->
-  <img src="https://raw.githubusercontent.com/shadcn/ui/main/apps/www/public/favicon.ico" width="40" title="shadcn/ui" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
 </p>
 
+<h3 align="left">Frontend Development</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+  <img src="https://vitejs.dev/logo-with-shadow.png" alt="vite" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="shadcn-ui" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
+</p>
+
+<h3 align="left">Backend Development</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40"/>
+</p>
+
+<h3 align="left">Database</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+</p>
+
+<h3 align="left">DevOps & Cloud</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="cloudflare" width="40" height="40"/>
+</p>
+
+<h3 align="left">Hosting & Deployment</h3>
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" alt="digitalocean" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github-pages" width="40" height="40"/>
+</p>
+
+<h3 align="left">Tools & Version Control</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/>
+</p>
+
+<h3 align="left">AI & Machine Learning</h3>
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="openai" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+</p>
+
+<h3 align="left">Design & UI/UX</h3>
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg" alt="xd" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="40" height="40"/>
+  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/>
+</p>
+
+<h3 align="left">Operating Systems</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="macos" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberry pi" width="40" height="40"/>
+</p>
+
+<h3 align="left">Other</h3>
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="chrome" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg" alt="firefox" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/swagger/swagger-icon.svg" alt="swagger" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/>
+</p>
 
 ---
 
