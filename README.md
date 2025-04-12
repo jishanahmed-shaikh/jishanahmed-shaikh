@@ -26,7 +26,7 @@ I'm always exploring, building, and helping others learn along the way 🚀
 
 ## 🔭 Current Projects
 - 🚀 Working on a **Student Learning Assistant** powered by AI Agents & NLP for smarter, more personalized learning.
-- 🧠 Conducted sessions and mentored over **2000+ students** in **Google Cloud, AI/ML, and AR/VR** as part of Google, Google Dev Communities, Snap Inc and Multiple Tech. Communities, Events & Initiatives.
+- 🧠 Conducted sessions and mentored over **2000+ students** on **Google Cloud, AI/ML, and AR/VR** as part of Google, Google Dev Communities, Snap Inc and Multiple Tech. Communities, Events & Initiatives.
 - 🧪 Exploring **LangChain, Generative AI**, and building intelligent tools with advanced **NLP pipelines**.
 
 ---
