@@ -32,14 +32,12 @@ I'm always exploring, building, and helping others learn along the way 🚀
 ---
 
 ## 📫 Connect with Me
-
-<a href="https://www.linkedin.com/in/jishanahmedshaikh" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-
-<a href="https://www.youtube.com/@jishanahmedarshaikh" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-</a>  
+ 
+<a href="https://www.linkedin.com/in/jishanahmedshaikh/" target="_blank"><img height="40" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/></a>
+<a href="https://www.instagram.com/jishanahmed_shaikh/" target="_blank"><img height="40" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png"/></a>
+<a href="https://www.youtube.com/@jishanahmedarshaikh" target="_blank"><img height="40" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-youtube-social-media-justicon-lineal-color-justicon.png"/></a>
+<a href="mailto:shaikhjishan255@gmail.com" target="_blank"><img height="40" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-gmail-social-media-justicon-lineal-color-justicon.png"/></a>
+<a href="https://discord.gg/518476056232198171" target="_blank"><img height="40" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-discord-social-media-justicon-lineal-color-justicon.png"/></a>
 <br/>
 <br>
 
