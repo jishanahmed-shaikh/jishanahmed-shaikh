@@ -37,7 +37,7 @@ I'm always exploring, building, and helping others learn along the way 🚀
 <a href="https://www.instagram.com/jishanahmed_shaikh/" target="_blank"><img height="40" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png"/></a>
 <a href="https://www.youtube.com/@jishanahmedarshaikh" target="_blank"><img height="40" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-youtube-social-media-justicon-lineal-color-justicon.png"/></a>
 <a href="mailto:shaikhjishan255@gmail.com" target="_blank"><img height="40" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-gmail-social-media-justicon-lineal-color-justicon.png"/></a>
-<a href="https://discord.gg/518476056232198171" target="_blank"><img height="40" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-discord-social-media-justicon-lineal-color-justicon.png"/></a>
+<a href="https://discord.com/users/518476056232198171" target="_blank"><img height="40" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-discord-social-media-justicon-lineal-color-justicon.png"/></a>
 <br/>
 <br>
 
