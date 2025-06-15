@@ -9,10 +9,9 @@ Hi, I'm Jishanahmed Shaikh! 👋
 A passionate tech enthusiast blending creativity with code to bring innovative ideas to life.  
 Whether it's in
 <br>
+- Cloud,
 <br>
 - AI,
-<br>
-- Cloud,
 <br>
 - AR/VR,
 <br>
