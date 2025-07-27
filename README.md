@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jishanahmed-shaikh" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1200&width=450&lines=I'm+Jishanahmed+AR+Shaikh!" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1200&width=500&lines=I'm+Jishanahmed+AR+Shaikh!" />
 </h1>
 
 <h3 align="left">
