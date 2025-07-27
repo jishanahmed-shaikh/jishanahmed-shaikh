@@ -5,8 +5,8 @@
 </h1>
 
 <h3 align="left">
-Hi, I'm Jishanahmed Shaikh! 👋  
-A passionate tech enthusiast blending creativity with code to bring innovative ideas to life.  
+Hi, I'm Jishanahmed AR Shaikh! 👋  
+A passionate tech. enthusiast blending creativity with code to bring innovative ideas to life.  
 Whether it's in
 
 <br>
