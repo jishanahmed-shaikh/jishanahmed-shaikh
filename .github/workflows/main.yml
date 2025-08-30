@@ -1,28 +1,27 @@
-name: Generate Datas
+name: Generate Snake
 
 permissions:
-  contents: write   # <-- allow pushing to the repo
-  pages: write      # <-- if using GitHub Pages
-  id-token: write   # <-- required for pages deployments sometimes
+  contents: write
 
 on:
   schedule:
-    - cron: "0 * * * *" # every 1 hour
+    - cron: "0 */12 * * *"   # runs every 12 hours (safe rate-limit)
   workflow_dispatch:
 
 jobs:
   build:
-    name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
+      - name: Generate snake SVG
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: jishanahmed-shaikh
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
           build_dir: dist
