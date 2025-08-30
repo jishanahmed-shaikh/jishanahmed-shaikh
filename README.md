@@ -202,4 +202,4 @@ I'm always exploring, building, and helping others learn along the way 🚀
 
 ## 🐍 Contribution Graph
 
-<img src="https://raw.githubusercontent.com/jishanahmed-shaikh/jishanhmed-shaikh/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
