@@ -189,14 +189,16 @@ I'm always exploring, building, and helping others learn along the way 🚀
 
 <br/>
 
-<p>
-  <img align="center" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=jishanahmed-shaikh&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img height="300" src="https://streak-stats.demolab.com/?user=jishanahmed-shaikh&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 <br/>
 
-<img width=350 align="left" src="https://github-readme-stats.vercel.app/api?username=jishanahmed-shaikh&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-<img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jishanahmed-shaikh&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="top languages" />
+<p align="center">
+  <img width="350" src="https://github-readme-stats.vercel.app/api?username=jishanahmed-shaikh&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jishanahmed-shaikh&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
 
 ---
 
