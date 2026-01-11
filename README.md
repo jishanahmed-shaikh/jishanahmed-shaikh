@@ -192,9 +192,8 @@ I'm always exploring, building, and helping others learn along the way 🚀
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jishanahmed-shaikh&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jishanahmed-shaikh&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+  [![Jishanahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=jishanahmed-shaikh&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jishanahmed-shaikh&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ---
