@@ -185,25 +185,7 @@ I'm always exploring, building, and helping others learn along the way 🚀
 
 ---
 
-## ⚡ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=jishanahmed-shaikh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  [![Jishanahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=jishanahmed-shaikh&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jishanahmed-shaikh&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jishanahmed-shaikh/jishanahmed-shaikh/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jishanahmed-shaikh/jishanahmed-shaikh/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jishanahmed-shaikh/jishanahmed-shaikh/output/github-contribution-grid-snake.svg">
-</picture>
+<!-- Readme Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jishanahmed-shaikh&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 
