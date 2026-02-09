@@ -28,13 +28,12 @@ I'm always exploring, building, and helping others learn along the way
 
 ## 📊 Some Key Metrics
 
-- 👥 **2000+ developers & students** mentored through hands-on sessions and workshops  
-- 🎓 Delivered **50+ technical sessions** across Cloud, AI/ML, GenAI, and AR/VR  
-- 🌍 Active contributor to **global developer communities** (Google Dev Communities, Snap AR)  
-- 🛠️ **Open-source builder & maintainer**, with ongoing contributions to AI tooling and governance-focused projects  
-- ✍️ Regularly publishing technical write-ups on **AI systems, agent design, and context governance**
-
-
+- **3000+ developers, professionals & students** mentored through webinars, hands-on sessions, events, conferences and in-person workshops  
+- Delivered **50+ technical sessions** across Data, Cloud, AI/ML, GenAI, and AR/VR  
+- Active contributor to **Global developer communities** (Google Dev Communities, Snap AR)  
+- **Open-source builder & maintainer**, with ongoing contributions to AI tooling and governance-focused projects  
+- Regularly publishing technical write-ups on **AI systems, agent design, and context governance**
+  
 ---
 
 ## 📫 Connect with Me
