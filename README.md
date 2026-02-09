@@ -41,7 +41,9 @@ I'm always exploring, building, and helping others learn along the way 🚀
 <br/>
 <br>
 
-## 📧 Email: shaikhjishan255@gmail.com / jishanahmedshaikh@gmail.com
+## 📧 Email: jishanahmedshaikh@gmail.com
+## 📞 Contact: +91 8591764236
+## 🤝 Calendly: https://calendly.com/jishanahmedshaikh
 
 ---
 
