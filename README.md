@@ -21,10 +21,19 @@ I'm always exploring, building, and helping others learn along the way
 ## 🔭 Current Focus
 
 - Working extensively on **Data & AI Context, Governance, and Observability** for modern AI systems  
-- Building and actively maintaining **OversightAI** — an open-source initiative focused on AI system oversight, context control, and responsible agent behavior  
+- Building and actively maintaining **OversightAI**, an open-source initiative focused on AI system oversight, context control, and responsible agent behavior  
 - Experimenting with **Generative AI**, **Agentic Systems**, and **AI Copilots** using LangChain, tool calling, memory layers, and orchestration patterns  
-- Designing **agent memory, context persistence, and evaluation pipelines** for long-running AI workflows  
-- Writing technical blogs and notes to document learnings, architectures, and real-world trade-offs in AI system design
+- Designing **agent memory, context persistence, and evaluation pipelines** for long-running AI workflows
+- Target Contribution to the SnapAR Community, Snap Inc. for a Userbase of 80 Million by the end of 2026 from current user impressions of 8.5 Million
+- Writing technical blogs and notes to document learnings, architectures, and real-world trade-offs in data and ai systems.
+
+## 📊 Some Key Metrics
+
+- 👥 **2000+ developers & students** mentored through hands-on sessions and workshops  
+- 🎓 Delivered **50+ technical sessions** across Cloud, AI/ML, GenAI, and AR/VR  
+- 🌍 Active contributor to **global developer communities** (Google Dev Communities, Snap AR)  
+- 🛠️ **Open-source builder & maintainer**, with ongoing contributions to AI tooling and governance-focused projects  
+- ✍️ Regularly publishing technical write-ups on **AI systems, agent design, and context governance**
 
 
 ---
