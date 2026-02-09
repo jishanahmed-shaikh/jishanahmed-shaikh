@@ -14,6 +14,7 @@ Turning complex problems and ideas into simple usecases, scalable, real-world sy
     I'm always exploring, building, and helping others learn along the way
 </p>
 
+---
 
 ## 🔭 Current Focus
 
