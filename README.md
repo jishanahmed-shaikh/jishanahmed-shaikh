@@ -30,7 +30,7 @@ I'm always exploring, building, and helping others learn along the way
 
 - **3000+ developers, professionals & students** mentored through webinars, hands-on sessions, events, conferences and in-person workshops  
 - Delivered **50+ technical sessions** across Data, Cloud, AI/ML, GenAI, and AR/VR  
-- Active contributor to **Global developer communities** (Google Dev Communities, Snap AR)  
+- Active contributor to **Global Developer communities** (Google Dev. Communities, Datahub, SnapAR by Snap Inc.)  
 - **Open-source builder & maintainer**, with ongoing contributions to AI tooling and governance-focused projects  
 - Regularly publishing technical write-ups on **AI systems, agent design, and context governance**
   
