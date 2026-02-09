@@ -176,6 +176,6 @@ I'm always exploring, building, and helping others learn along the way 🚀
 ---
 
 <!-- Readme Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jishanahmed-shaikh&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jishanahmed-shaikh&theme=react-dark&bg_color=0FFF50&hide_border=true" width="100%"/>
 
 
