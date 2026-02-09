@@ -4,23 +4,17 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1200&width=500&lines=I'm+Jishanahmed+AR+Shaikh!" />
 </h1>
 
-<h3 align="left">
-Hi, I'm Jishanahmed AR Shaikh! 👋  
-A passionate tech. enthusiast blending creativity with code to bring innovative ideas to life.  
-Whether it's in
+<h2 align="center">Hi, I'm Jishanahmed AR Shaikh 👋</h2>
+<p align="center">
+A tech leader and builder at the intersection of <b>Data, AI, Cloud and XR</b><br>
+Turning complex problems and ideas into simple usecases, scalable, real-world systems.
+</p>
 
-<br>
-- Cloud,
-<br>
-- AI,
-<br>
-- AR/VR,
-<br>
-- Full-Stack development
-<br>
-<br>
-I'm always exploring, building, and helping others learn along the way 🚀
-</h3>
+<p align="center">
+I'm always exploring, building, and helping others learn along the way
+</p>
+
+
 
 ---
 
