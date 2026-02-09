@@ -12,10 +12,9 @@ Turning complex problems and ideas into simple usecases, scalable, real-world sy
 
 <p align="center">
     I'm always exploring, building, and helping others learn along the way
-    
-    🔗 [Professional Portfolio](https://www.jishanahmed.in)
 </p>
 
+    🔗 [Professional Portfolio](https://www.jishanahmed.in)
 
 
 ---
