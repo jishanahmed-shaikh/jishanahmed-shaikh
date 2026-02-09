@@ -43,7 +43,7 @@ I'm always exploring, building, and helping others learn along the way 🚀
 
 ### 📧 Email: jishanahmedshaikh@gmail.com
 ### 📞 Contact: +91 8591764236
-### 🤝 Calendly: https://calendly.com/jishanahmedshaikh
+### 🤝 Calendly: (Schedule a Call with Me)[https://calendly.com/jishanahmedshaikh]
 
 ---
 
