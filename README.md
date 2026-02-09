@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-A tech leader and builder at the intersection of <b>Data, AI, Cloud and XR</b><br>
+A tech. evangelist, explorer loves to build stuff around <b>Data, AI, Cloud and XR</b><br>
 Turning complex problems and ideas into simple usecases, scalable, real-world systems.
 </p>
 
