@@ -17,6 +17,8 @@ Turning complex problems and ideas into simple usecases, scalable, real-world sy
 ---
 
     🔗 [Professional Portfolio](https://www.jishanahmed.in)
+    🔗 **[Professional Portfolio](https://www.jishanahmed.in)**
+
     
 ---
 
