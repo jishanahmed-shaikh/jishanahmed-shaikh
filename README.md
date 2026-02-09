@@ -65,7 +65,6 @@ I'm always exploring, building, and helping others learn along the way 🚀
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40" title="Tailwind CSS"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" title="Sass"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" title="Redux"/>
-  <img src="[https://vitejs.dev/logo-with-shadow.png](https://vite.dev/assets/vite-light.t8GCa_VF.svg)" alt="vite" width="40" height="40" title="Vite"/>
   <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="shadcn-ui" width="40" height="40" title="shadcn/ui"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" title="Bootstrap"/>
 </p>
@@ -143,7 +142,6 @@ I'm always exploring, building, and helping others learn along the way 🚀
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" title="Scikit-learn"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40" title="Jupyter"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" title="OpenCV"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/openai.svg" alt="openai" width="40" height="40" title="OpenAI"/>
   <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40" title="NumPy"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" title="Pandas"/>
 </p>
@@ -155,8 +153,7 @@ I'm always exploring, building, and helping others learn along the way 🚀
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40" title="Adobe Photoshop"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="40" height="40" title="Adobe Illustrator"/>
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40" title="Blender"/>
-  <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40" title="Sketch"/>
-  <img src="https://skillicons.dev/icons?i=framer" alt="Framer" />   
+  <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40" title="Sketch"/>   
 </p>
 
 <h3 align="left">Operating Systems</h3>
