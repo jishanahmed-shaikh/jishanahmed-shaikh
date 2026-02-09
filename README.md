@@ -4,7 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1200&width=500&lines=I'm+Jishanahmed+AR+Shaikh!" />
 </h1>
 
-<h2 align="center">Hi, I'm Jishanahmed AR Shaikh 👋</h2>
 <p align="center">
 A tech leader and builder at the intersection of <b>Data, AI, Cloud and XR</b><br>
 Turning complex problems and ideas into simple usecases, scalable, real-world systems.
