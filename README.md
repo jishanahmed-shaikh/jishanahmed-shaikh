@@ -19,8 +19,7 @@ Turning complex problems and ideas into simple usecases, scalable, real-world sy
 
 - Working extensively on **Data & AI Context, Governance, and Observability** for modern AI systems, Building and actively maintaining **OversightAI**, an open-source initiative focused on AI system oversight, context control, and responsible agent behavior
 - Targeting contributions to the **SnapAR Community, Snap Inc.**, with the goal of reaching a **user base of 80 million by the end of 2026**, building on the current **8.5 million user impressions**
-- Experimenting with **Generative AI**, **Agentic Systems**, and **Copilots** using LangChain, tool calling, memory layers, and orchestration patterns  
-- Designing **agent memory, context persistence, and evaluation pipelines** for long-running AI workflows
+- Experimenting with **Generative AI**, **Agentic Systems**, and **Copilots** using LangChain, tool calling, memory layers, orchestration patterns, Designing **agent memory, context persistence, and evaluation pipelines** for long-running AI workflows
 - Writing technical blogs and notes to document learnings, architectures, and real-world trade-offs in data and ai systems.
 
 ## 📊 Some Key Metrics
