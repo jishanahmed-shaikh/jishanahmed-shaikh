@@ -57,8 +57,7 @@ Turning complex problems and ideas into simple usecases, scalable, real-world sy
 <br/>
 
 <p align="center">
-<p align="center">
-[📧 Send an Email](mailto:jishanahmedshaikh@gmail.com) | [🤝 Schedule a Call](https://calendly.com/jishanahmedshaikh)
+<a href="mailto:jishanahmedshaikh@gmail.com">📧 Send an Email</a> | <a href="https://calendly.com/jishanahmedshaikh">🤝 Schedule a Call</a>
 </p>
 
 ---
