@@ -39,7 +39,7 @@ Turning complex problems and ideas into simple usecases, scalable, real-world sy
 - **AI & Machine Learning**: CNNs, GANs, ESRGAN, Ablation, Activation Functions, BNN, LLMs, RAG, Fine-tuning, Model Optimization
 - **Data Engineering**: Data Pipelines, ETL/ELT, Data Governance, Data Quality
 - **Cloud Architecture**: Microservices, Serverless, Container Orchestration, Infrastructure as Code
-- **Full-Stack Development**: End-to-end application design and deployment
+- **Full-Stack Development**: Agentic Usecases, Copilots, End-to-end Web & Application design and deployment
 - **Extended Reality (XR)**: AR/VR development with focus on immersive experiences
   
 ---
