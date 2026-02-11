@@ -215,7 +215,7 @@ Turning complex problems and ideas into simple usecases, scalable, real-world sy
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jishanahmed-shaikh&theme=dark&cache_seconds=0" alt="GitHub Streak" width="48%"/>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=jishanahmed-shaikh)](https://git.io/streak-stats)
   
   <br>
   <br>
