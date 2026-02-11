@@ -209,17 +209,16 @@ Turning complex problems and ideas into simple usecases, scalable, real-world sy
 
 ---
 
-## 🏆 Achievements & Recognition
-
- ![](https://github-trophies.vercel.app/?username=jishanahmed-shaikh)
-
----
-
 ## 📈 GitHub Statistics
 
 <div align="center">
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jishanahmed-shaikh&theme=dark" alt="GitHub Streak" width="48%"/>
+  
+  <br>
+
+  ![](https://github-trophies.vercel.app/?username=jishanahmed-shaikh)
+
 </div>
 
 ---
