@@ -215,7 +215,7 @@ Turning complex problems and ideas into simple usecases, scalable, real-world sy
 
 <div align="center">
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=jishanahmed-shaikh)](https://git.io/streak-stats)
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jishanahmed-shaikh)](https://github.com/anuraghazra/github-readme-stats)
   
   <br>
   <br>
