@@ -224,6 +224,31 @@ Turning complex problems and ideas into simple usecases, scalable, real-world sy
 </div>
 
 ---
+
+## 🎓 Learning & Development
+
+- Continuously exploring emerging technologies in AI, Data Engineering, and Cloud Architecture
+- Active participant in tech communities and open-source projects
+- Mentoring aspiring developers and professionals in Data, AI, and Cloud domains
+- Contributing to knowledge sharing through technical blogs and documentation
+
+---
+
+## 💡 Open to Opportunities
+
+- **Collaborations**: Open to collaborating on AI, Data, and Cloud projects
+- **Speaking Engagements**: Available for tech talks, webinars, and workshops
+- **Mentorship**: Happy to mentor developers interested in Data, AI, and Cloud technologies
+- **Consulting**: Available for technical consulting on AI systems, data architecture, and cloud solutions
+
+---
+
+<div align="center">
+  <p>⭐ If you find my work interesting, feel free to star my repositories and connect with me!</p>
+  <p>Made with ❤️ by Jishanahmed AR Shaikh</p>
+</div>
+
+<!-- Readme Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jishanahmed-shaikh&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 
