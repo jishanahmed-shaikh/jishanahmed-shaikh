@@ -34,6 +34,14 @@ Turning complex problems and ideas into simple usecases, scalable, real-world sy
 - Active contributor to **Global Developer communities** (Google Dev. Communities, Datahub, SnapAR by Snap Inc.)  
 - **Open-source builder & maintainer**, with ongoing contributions to AI tooling and governance-focused projects  
 - Regularly publishing technical write-ups on **AI systems, agent design, and context governance**
+
+## 🎯 Areas of Expertise
+
+- **AI & Machine Learning**: LLMs, Prompt Engineering, RAG, Fine-tuning, Model Optimization
+- **Data Engineering**: Data Pipelines, ETL/ELT, Data Governance, Data Quality
+- **Cloud Architecture**: Microservices, Serverless, Container Orchestration, Infrastructure as Code
+- **Full-Stack Development**: End-to-end application design and deployment
+- **Extended Reality (XR)**: AR/VR development with focus on immersive experiences
   
 ---
 
