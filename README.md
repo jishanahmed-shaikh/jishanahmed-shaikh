@@ -36,7 +36,7 @@ Turning complex problems and ideas into simple usecases, scalable, real-world sy
 
 ## 🎯 Areas of Expertise
 
-- **AI & Machine Learning**: LLMs, Prompt Engineering, RAG, Fine-tuning, Model Optimization
+- **AI & Machine Learning**: CNNs, GANs, ESRGAN, Ablation, Activation Functions, BNN, LLMs, RAG, Fine-tuning, Model Optimization
 - **Data Engineering**: Data Pipelines, ETL/ELT, Data Governance, Data Quality
 - **Cloud Architecture**: Microservices, Serverless, Container Orchestration, Infrastructure as Code
 - **Full-Stack Development**: End-to-end application design and deployment
