@@ -14,7 +14,7 @@ Turning complex problems and ideas into simple usecases, scalable, real-world sy
 </p>
 
 <p align="center">
-    <a href="https://www.jishanahmed.in" target="_blank">🌐 Check My Professional Portfolio</a>
+    <a href="https://www.jishanahmed.in" target="_blank">Checkout My Professional Portfolio</a>
 </p>
 
 ---
