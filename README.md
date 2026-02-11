@@ -171,8 +171,8 @@ Turning complex problems and ideas into simple usecases, scalable, real-world sy
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" title="OpenCV"/>
   <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40" title="NumPy"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" title="Pandas"/>
-  <img src="https://www.vectorlogo.zone/logos/langchain/langchain-icon.svg" alt="langchain" width="40" height="40" title="LangChain"/>
-  <img src="https://www.vectorlogo.zone/logos/huggingface/huggingface-icon.svg" alt="huggingface" width="40" height="40" title="Hugging Face"/>
+  <img src="https://images.seeklogo.com/logo-png/61/2/langchain-white-logo-png_seeklogo-611657.png" alt="langchain" width="40" height="40" title="LangChain"/>
+  <img src="https://images.seeklogo.com/logo-png/51/2/hugging-face-icon-logo-png_seeklogo-515010.png" alt="huggingface" width="40" height="40" title="Hugging Face"/>
 </p>
 
 <h3 align="left">Design & UI/UX</h3>
