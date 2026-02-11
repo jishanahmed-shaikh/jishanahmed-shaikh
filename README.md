@@ -146,6 +146,9 @@ Turning complex problems and ideas into simple usecases, scalable, real-world sy
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" title="Heroku"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" alt="digitalocean" width="40" height="40" title="DigitalOcean"/>
   <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github-pages" width="40" height="40" title="GitHub Pages"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40" title="Amazon Web Services"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" title="Microsoft Azure"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" title="Google Cloud Platform"/>
 </p>
 
 <h3 align="left">Tools & Version Control</h3>
