@@ -203,6 +203,9 @@ Turning complex problems and ideas into simple usecases, scalable, real-world sy
   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" title="GraphQL"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40" title="Jira"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/zapier.svg" alt="zapier" width="40" height="40" title="Zapier"/>
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40" title="RabbitMQ"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40" title="Apache Kafka"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker-compose" width="40" height="40" title="Docker Compose"/>
 </p>
 
 ---
