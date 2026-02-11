@@ -109,7 +109,7 @@ Turning complex problems and ideas into simple usecases, scalable, real-world sy
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" title="Firebase"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40" title="SQLite"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" title="Oracle"/>
-  <img src="https://www.vectorlogo.zone/logos/elasticsearch/elasticsearch-icon.svg" alt="elasticsearch" width="40" height="40" title="Elasticsearch"/>
+  <img src="https://images.seeklogo.com/logo-png/32/2/elasticsearch-logo-png_seeklogo-323429.png" alt="elasticsearch" width="40" height="40" title="Elasticsearch"/>
   <img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg" alt="neo4j" width="40" height="40" title="Neo4j"/>
 </p>
 
