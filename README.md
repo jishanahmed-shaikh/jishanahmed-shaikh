@@ -47,16 +47,19 @@ Turning complex problems and ideas into simple usecases, scalable, real-world sy
 
 ## 📫 Connect with Me
  
-<a href="https://www.linkedin.com/in/jishanahmedshaikh/" target="_blank"><img height="40" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/></a>
-<a href="https://www.instagram.com/jishanahmed_shaikh/" target="_blank"><img height="40" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png"/></a>
-<a href="https://www.youtube.com/@jishanahmedarshaikh" target="_blank"><img height="40" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-youtube-social-media-justicon-lineal-color-justicon.png"/></a>
-<a href="mailto:shaikhjishan255@gmail.com" target="_blank"><img height="40" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-gmail-social-media-justicon-lineal-color-justicon.png"/></a>
-<a href="https://discord.com/users/518476056232198171" target="_blank"><img height="40" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-discord-social-media-justicon-lineal-color-justicon.png"/></a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/jishanahmedshaikh/" target="_blank"><img height="40" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/jishanahmed_shaikh/" target="_blank"><img height="40" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png" alt="Instagram"/></a>
+  <a href="https://www.youtube.com/@jishanahmedarshaikh" target="_blank"><img height="40" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-youtube-social-media-justicon-lineal-color-justicon.png" alt="YouTube"/></a>
+  <a href="mailto:shaikhjishan255@gmail.com" target="_blank"><img height="40" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-gmail-social-media-justicon-lineal-color-justicon.png" alt="Gmail"/></a>
+  <a href="https://discord.com/users/518476056232198171" target="_blank"><img height="40" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-discord-social-media-justicon-lineal-color-justicon.png" alt="Discord"/></a>
+</div>
+
 <br/>
-<br>
 
 ### 📧 Email: jishanahmedshaikh@gmail.com
 ### 🤝 Calendly: [Schedule a Call](https://calendly.com/jishanahmedshaikh)
+### 🌐 Portfolio: [jishanahmed.in](https://www.jishanahmed.in)
 
 ---
 
