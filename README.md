@@ -13,6 +13,10 @@ Turning complex problems and ideas into simple usecases, scalable, real-world sy
     I'm always exploring, building, and helping others learn along the way
 </p>
 
+<p align="center">
+    <a href="https://www.jishanahmed.in" target="_blank">🌐 Check My Professional Portfolio</a>
+</p>
+
 ---
 
 ## 🔭 Current Focus
