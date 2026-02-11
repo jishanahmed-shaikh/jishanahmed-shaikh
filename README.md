@@ -124,7 +124,7 @@ Turning complex problems and ideas into simple usecases, scalable, real-world sy
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40" title="Ansible"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40" title="Terraform"/>
   <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="cloudflare" width="40" height="40" title="Cloudflare"/>
-  <img src="https://www.vectorlogo.zone/logos/prometheus/prometheus-icon.svg" alt="prometheus" width="40" height="40" title="Prometheus"/>
+  <img src="https://images.seeklogo.com/logo-png/27/2/prometheus-logo-png_seeklogo-273822.png" alt="prometheus" width="40" height="40" title="Prometheus"/>
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40" title="Grafana"/>
 </p>
 
