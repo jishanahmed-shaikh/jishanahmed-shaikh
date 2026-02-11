@@ -135,8 +135,8 @@ Turning complex problems and ideas into simple usecases, scalable, real-world sy
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40" title="Blender"/>
   <img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="godot" width="40" height="40" title="Godot Engine"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/snapchat.svg" alt="snap" width="40" height="40" title="Snap Lens Studio"/>
-  <img src="https://www.vectorlogo.zone/logos/threejs/threejs-icon.svg" alt="threejs" width="40" height="40" title="Three.js"/>
-  <img src="https://www.vectorlogo.zone/logos/babylonjs/babylonjs-icon.svg" alt="babylonjs" width="40" height="40" title="Babylon.js"/>
+  <img src="https://images.seeklogo.com/logo-png/43/2/three-js-logo-png_seeklogo-431124.png" alt="threejs" width="40" height="40" title="Three.js"/>
+  <img src="https://images.seeklogo.com/logo-png/36/1/babylon-js-logo-png_seeklogo-364105.png" alt="babylonjs" width="40" height="40" title="Babylon.js"/>
 </p>
 
 <h3 align="left">Hosting & Deployment</h3>
