@@ -22,7 +22,7 @@ Turning complex problems and ideas into simple usecases, scalable, real-world sy
 ## 🔭 Current Focus
 
 - **Data & AI Governance**: Working extensively on **Data & AI Context, Governance, and Observability** for modern AI systems
-- **OversightAI Initiative**: Building and actively maintaining **OversightAI**, an open-source initiative focused on AI system oversight, context control, and responsible agent behavior
+- **OpenSource Initiative**: Building and actively maintaining **OversightAI**, an open-source initiative focused on AI system oversight, context control, and responsible agent behavior
 - **SnapAR Community**: Targeting contributions to the **SnapAR Community, Snap Inc.**, with the goal of reaching a **user base of 80 million by the end of 2026**, building on the current **8.5 million user impressions**
 - **Generative AI & Agents**: Experimenting with **Generative AI**, **Agentic Systems**, and **Copilots** using LangChain, tool calling, memory layers, orchestration patterns
 - **Agent Architecture**: Designing **agent memory, context persistence, and evaluation pipelines** for long-running AI workflows
