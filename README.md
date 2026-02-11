@@ -211,7 +211,7 @@ Turning complex problems and ideas into simple usecases, scalable, real-world sy
 
 ## 🏆 Achievements & Recognition
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jishanahmed-shaikh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-trophies.vercel.app/?username=jishanahmed-shaikh)
 
 ---
 
