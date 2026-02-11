@@ -173,6 +173,7 @@ Turning complex problems and ideas into simple usecases, scalable, real-world sy
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" title="Pandas"/>
   <img src="https://images.seeklogo.com/logo-png/61/2/langchain-white-logo-png_seeklogo-611657.png" alt="langchain" width="40" height="40" title="LangChain"/>
   <img src="https://images.seeklogo.com/logo-png/51/2/hugging-face-icon-logo-png_seeklogo-515010.png" alt="huggingface" width="40" height="40" title="Hugging Face"/>
+  <img src="https://images.seeklogo.com/logo-png/61/2/crew-ai-logo-png_seeklogo-619843.png" alt="crewai" width="40" height="40" title="CrewAI"/>
 </p>
 
 <h3 align="left">Design & UI/UX</h3>
