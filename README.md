@@ -56,7 +56,9 @@ Turning complex problems and ideas into simple usecases, scalable, real-world sy
 
 <br/>
 
+<p align="center">
 [📧 Send an Email](mailto:jishanahmedshaikh@gmail.com) | [🤝 Schedule a Call](https://calendly.com/jishanahmedshaikh)
+</p>
 
 ---
 
