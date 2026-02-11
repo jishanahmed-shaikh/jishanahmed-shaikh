@@ -242,12 +242,12 @@ Turning complex problems and ideas into simple usecases, scalable, real-world sy
 
 ---
 
+<!-- Readme Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jishanahmed-shaikh&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
+---
+
 <div align="center">
   <p>⭐ If you find my work interesting, feel free to star my repositories and connect with me!</p>
   <p>Made with ❤️ by Jishanahmed AR Shaikh</p>
 </div>
-
-<!-- Readme Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jishanahmed-shaikh&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-
-
