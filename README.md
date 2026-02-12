@@ -30,7 +30,7 @@ Turning complex problems and ideas into simple usecases, scalable, real-world sy
 ## 📊 Some Key Metrics
 
 - **3000+ developers, professionals & students** mentored through **50+ technical sessions** webinars, hands-on sessions, events, conferences and in-person workshops across Data, Cloud, AI/ML, GenAI, and AR/VR  
-- Active contributor to **Global Developer communities** (Google Dev. Communities, Datahub, SnapAR by Snap Inc.)  
+- Active contributor to **Global Developer communities** (Google Dev. Communities, Datahub, **SnapAR by Snap Inc. - 8.5 Million User Impressions**)  
 - **Open-source builder & maintainer**, with ongoing contributions to AI tooling and governance-focused projects  
 - Regularly publishing technical write-ups on **AI systems, agent design, and context governance**
 
