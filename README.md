@@ -87,11 +87,11 @@ Turning complex problems and ideas into simple usecases, scalable, real-world sy
 <h3 align="left">Database</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase,sqlite,oracle,elasticsearch,neo4j&perline=10" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase,sqlite,elasticsearch,neo4j&perline=10" />
   </a>
 </p>
 
-<h3 align="left">DevOps & Cloud</h3>
+<h3 align="left">Cloud, DevOps & Infrastructure</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,jenkins,ansible,terraform,cloudflare,grafana&perline=10" />
@@ -108,7 +108,7 @@ Turning complex problems and ideas into simple usecases, scalable, real-world sy
 <h3 align="left">Hosting & Deployment</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=netlify,vercel,heroku,digitalocean,aws,azure,gcp&perline=10" />
+    <img src="https://skillicons.dev/icons?i=netlify,vercel,heroku,aws,azure,gcp&perline=10" />
   </a>
 </p>
 
@@ -122,14 +122,14 @@ Turning complex problems and ideas into simple usecases, scalable, real-world sy
 <h3 align="left">AI & Machine Learning</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,jupyter,opencv,numpy,pandas&perline=10" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&perline=10" />
   </a>
 </p>
 
 <h3 align="left">Design & UI/UX</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,blender,sketch&perline=10" />
+    <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,blender&perline=10" />
   </a>
 </p>
 
@@ -143,7 +143,7 @@ Turning complex problems and ideas into simple usecases, scalable, real-world sy
 <h3 align="left">Other</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,graphql,jira,rabbitmq,kafka,docker&perline=10" />
+    <img src="https://skillicons.dev/icons?i=postman,graphql,rabbitmq,kafka,docker&perline=10" />
   </a>
 </p>
 
