@@ -152,10 +152,7 @@ Turning complex problems and ideas into simple usecases, scalable, real-world sy
 ## 📈 GitHub Statistics
 
 <div align="center">
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=jishanahmed-shaikh)](https://git.io/streak-stats)
   
-  <br>
   <br>
 
   ![](https://github-trophies.vercel.app/?username=jishanahmed-shaikh)
