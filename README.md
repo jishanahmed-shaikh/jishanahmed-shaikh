@@ -66,7 +66,7 @@ Turning complex problems and ideas into simple usecases, scalable, real-world sy
 <h3 align="left">Programming Languages</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java,go&perline=10" />
+    <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java,go,r&perline=10" />
   </a>
 </p>
 
@@ -80,21 +80,21 @@ Turning complex problems and ideas into simple usecases, scalable, real-world sy
 <h3 align="left">Backend Development</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,spring,graphql&perline=10" />
+    <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,graphql&perline=10" />
   </a>
 </p>
 
 <h3 align="left">Database</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase,sqlite,elasticsearch,neo4j&perline=10" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase,sqlite,elasticsearch,neo4j,supabase&perline=10" />
   </a>
 </p>
 
 <h3 align="left">Cloud, DevOps & Infrastructure</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,terraform,cloudflare,grafana&perline=10" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,terraform,cloudflare,grafana,prometheus&perline=10" />
   </a>
 </p>
 
@@ -115,14 +115,14 @@ Turning complex problems and ideas into simple usecases, scalable, real-world sy
 <h3 align="left">Tools & Version Control</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,bash,vim,figma&perline=10" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,bash,vim,notion&perline=10" />
   </a>
 </p>
 
-<h3 align="left">AI & Machine Learning</h3>
+<h3 align="left">AI, Data Science & Machine Learning</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&perline=10" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,pkl,r&perline=10" />
   </a>
 </p>
 
@@ -136,14 +136,14 @@ Turning complex problems and ideas into simple usecases, scalable, real-world sy
 <h3 align="left">Operating Systems</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,windows&perline=10" />
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,windows,kali,redhat&perline=10" />
   </a>
 </p>
 
 <h3 align="left">Other</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,graphql,rabbitmq,kafka,docker&perline=10" />
+    <img src="https://skillicons.dev/icons?i=postman,graphql,rabbitmq,kafka,raspberrypi&perline=10" />
   </a>
 </p>
 
