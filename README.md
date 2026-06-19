@@ -87,7 +87,7 @@ Turning complex problems and ideas into simple usecases, scalable, real-world sy
 <h3 align="left">Database</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase,sqlite,elasticsearch,neo4j,supabase&perline=10" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase,sqlite,elasticsearch,supabase&perline=10" />
   </a>
 </p>
 
