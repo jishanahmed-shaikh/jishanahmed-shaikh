@@ -73,14 +73,14 @@ Turning complex problems and ideas into simple usecases, scalable, real-world sy
 <h3 align="left">Frontend Development</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,css,nextjs,vue,tailwind,sass,redux,bootstrap,svelte&perline=10" />
+    <img src="https://skillicons.dev/icons?i=react,css,nextjs,vue,tailwind,bootstrap&perline=10" />
   </a>
 </p>
 
 <h3 align="left">Backend Development</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,spring,dotnet,graphql&perline=10" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,flask,spring,graphql&perline=10" />
   </a>
 </p>
 
@@ -94,21 +94,21 @@ Turning complex problems and ideas into simple usecases, scalable, real-world sy
 <h3 align="left">Cloud, DevOps & Infrastructure</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,jenkins,ansible,terraform,cloudflare,grafana&perline=10" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,terraform,cloudflare,grafana&perline=10" />
   </a>
 </p>
 
 <h3 align="left">3D Engines & Game Development</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,unreal,blender,godot,threejs&perline=10" />
+    <img src="https://skillicons.dev/icons?i=unity,unreal,blender,threejs&perline=10" />
   </a>
 </p>
 
 <h3 align="left">Hosting & Deployment</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=netlify,vercel,heroku,aws,azure,gcp&perline=10" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,netlify,vercel&perline=10" />
   </a>
 </p>
 
