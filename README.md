@@ -94,7 +94,7 @@ Turning complex problems and ideas into simple usecases, scalable, real-world sy
 <h3 align="left">Cloud, DevOps & Infrastructure</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,terraform,cloudflare,grafana,prometheus&perline=10" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,terraform,cloudflare,grafana,prometheus,netlify,vercel&perline=10" />
   </a>
 </p>
 
@@ -102,13 +102,6 @@ Turning complex problems and ideas into simple usecases, scalable, real-world sy
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=unity,unreal,blender,threejs&perline=10" />
-  </a>
-</p>
-
-<h3 align="left">Hosting & Deployment</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,netlify,vercel&perline=10" />
   </a>
 </p>
 
