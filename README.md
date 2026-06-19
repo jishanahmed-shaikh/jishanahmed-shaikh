@@ -73,7 +73,7 @@ Turning complex problems and ideas into simple usecases, scalable, real-world sy
 <h3 align="left">Frontend Development</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,css,nextjs,angular,tailwind,vite&perline=10" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,vite&perline=10" />
   </a>
 </p>
 
