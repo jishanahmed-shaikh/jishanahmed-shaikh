@@ -80,7 +80,7 @@ Turning complex problems and ideas into simple usecases, scalable, real-world sy
 <h3 align="left">Backend Development</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,flask,spring,graphql&perline=10" />
+    <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,spring,graphql&perline=10" />
   </a>
 </p>
 
