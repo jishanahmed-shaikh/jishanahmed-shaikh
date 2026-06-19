@@ -80,7 +80,7 @@ Turning complex problems and ideas into simple usecases, scalable, real-world sy
 <h3 align="left">Backend Development</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,graphql&perline=10" />
+    <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,graphql,cmake&perline=10" />
   </a>
 </p>
 
@@ -101,7 +101,7 @@ Turning complex problems and ideas into simple usecases, scalable, real-world sy
 <h3 align="left">3D Engines & Game Development</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,unreal,blender,threejs&perline=10" />
+    <img src="https://skillicons.dev/icons?i=unity,unreal,blender,autocad,threejs&perline=10" />
   </a>
 </p>
 
@@ -122,21 +122,21 @@ Turning complex problems and ideas into simple usecases, scalable, real-world sy
 <h3 align="left">Design & UI/UX</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,blender&perline=10" />
+    <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai&perline=10" />
   </a>
 </p>
 
 <h3 align="left">Operating Systems</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,windows,kali,redhat&perline=10" />
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,windows,kali,redhat,arch&perline=10" />
   </a>
 </p>
 
 <h3 align="left">Other</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,graphql,rabbitmq,kafka,raspberrypi&perline=10" />
+    <img src="https://skillicons.dev/icons?i=postman,graphql,rabbitmq,kafka,raspberrypi,arduino&perline=10" />
   </a>
 </p>
 
