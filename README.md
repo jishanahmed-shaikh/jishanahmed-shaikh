@@ -19,7 +19,7 @@ Building data platforms, AI systems, and open-source software.
 
 Contributing to the DataHub ecosystem by building AI-powered metadata systems, enterprise AI solutions, open-source integrations, technical content, and community initiatives.
 
-**Project** • [Website](https://datahub.com) • [GitHub](https://github.com/datahub-project/datahub)
+**Project** -> [Website](https://datahub.com) • [GitHub](https://github.com/datahub-project/datahub)
 
 Highlights:
 
@@ -36,7 +36,7 @@ Highlights:
 
 Contributed **13 production-ready community connectors** to the Coral open-source platform, expanding integrations across AI infrastructure, data platforms, cloud services, observability, vector databases, and developer tooling.
 
-**Project** • [Website](https://withcoral.com) • [GitHub](https://github.com/withcoral/coral)
+**Project** -> [Website](https://withcoral.com) • [GitHub](https://github.com/withcoral/coral)
 
 [**View Contributions**](https://github.com/withcoral/coral/pulls?q=is%3Apr+author%3Ajishanahmed-shaikh+is%3Aclosed)
 
