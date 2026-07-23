@@ -65,9 +65,9 @@ I write practical engineering articles documenting architecture decisions, imple
 
 ## Featured Projects
 
-- **OversightAI** - Open-source platform for AI governance, context management, evaluation, and observability.
-- **CrewAI Agentic AI Framework** - Reference framework for building and teaching production-ready multi-agent AI systems using CrewAI.
-- **FinSage** - AI-powered financial intelligence platform combining market analytics, portfolio insights, and conversational AI.
-- **XR Creator Submission** - Markerless AR Car Showroom experience built with Unity and Vuforia for the XR Creator Hackathon.
+- **OversightAI**: Open-source platform for AI governance, context management, evaluation, and observability.
+- **CrewAI Agentic AI Framework**: Reference framework for building and teaching production-ready multi-agent AI systems using CrewAI.
+- **FinSage**: End to End Financial intelligence platform combining market analytics, portfolio insights, and conversational AI.
+- **XR Creator Submission**: Markerless AR Car Showroom experience built with Unity and Vuforia for the XR Creator Hackathon.
 
 ---
