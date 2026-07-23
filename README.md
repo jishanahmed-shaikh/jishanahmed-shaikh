@@ -46,7 +46,7 @@ Contributed **13 production-ready community connectors** to the Coral open-sourc
 
 I write practical engineering articles documenting architecture decisions, implementation guides, and real-world AI systems across data platforms, metadata systems, Context Engineering, enterprise AI, and open source.
 
-[*Read on Medium:*](https://medium.com/@jishanahmedshaikh)
+[*Read on Medium*](https://medium.com/@jishanahmedshaikh)
 
 ---
 
@@ -57,7 +57,7 @@ I write practical engineering articles documenting architecture decisions, imple
 - Developed and merged the **Pinecone DB Metadata Ingestion Connector** into DataHub
 - Developed and merged **13 production-ready community connectors** into Coral
 - Built **SnapAR** experiences reaching **10M+ user impressions**
-- **Grand Finalist (Top 40)** — XR Creator Hackathon @ WAVES Summit 2025, Ministry of Information & Broadcasting, Government of India
+- **Grand Finalist (Top 40)** XR Creator Hackathon @ WAVES Summit 2025, Ministry of Information & Broadcasting, Government of India
 - **2x Google Cloud Arcade Program Facilitator (2025)**
 - Contributed to developer communities through technical talks, workshops, and open-source initiatives
 
