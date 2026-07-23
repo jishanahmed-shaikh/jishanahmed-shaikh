@@ -15,14 +15,6 @@ Engineer building data platforms, AI systems, and open-source infrastructure.
 
 ---
 
-# Building
-
-### OversightAI
-
-Building an open-source platform for governing, evaluating, and observing production AI systems through context management, policy enforcement, evaluation pipelines, and AI observability.
-
----
-
 # Open Source
 
 ### DataHub
@@ -44,30 +36,23 @@ My work includes:
 
 Expanded Coral's open-source integration ecosystem by developing and merging **13 community connectors** spanning:
 
-- Data Platforms
-- Vector Databases
-- AI Infrastructure
-- Observability
-- Cloud Services
-- Developer Tooling
-
-Connectors include:
-
-- Apache Airflow
-- Apache Kafka
-- Cal.com
-- Cloudflare
-- DataHub
-- Kestra
-- Langfuse
-- Milvus
-- Neo4j
-- Pinecone
-- Qdrant Cloud
-- RabbitMQ
-- SigNoz
+- Data Platforms (Apache Airflow, Apache Kafka, Datahub)
+- Vector Databases (Milvus, Qdrant)
+- AI Infrastructure (Kestra, Pinecone, Neo4J)
+- Observability (Langfuse, SigNoz)
+- Cloud Services (Cloudfare)
+- Developer Tooling (RabbitMQ, Cal.con)
 
 ---
+
+# Building
+
+### OversightAI
+
+Building an open-source platform for governing, evaluating, and observing production AI systems through context management, policy enforcement, evaluation pipelines, and AI observability.
+
+---
+
 
 # Writing
 
