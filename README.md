@@ -1,7 +1,7 @@
 <h1 align="center">Jishanahmed AR Shaikh</h1>
 
 <p align="center">
-Engineer building open-source AI systems and modern data platforms.
+Engineer building data platforms, AI systems and contributes to open-source
 </p>
 
 <p align="center">
@@ -27,9 +27,9 @@ Contributing to the DataHub ecosystem through AI-powered metadata systems, open-
 Highlights:
 
 - Built enterprise AI systems on top of DataHub for metadata automation, AI-assisted discovery, and context-aware AI workflows.
-- Developed and merged the **Pinecone Metadata Ingestion Connector** into the DataHub open-source project.
-- Active contributor across AI integrations, metadata workflows, and developer tooling.
-- Invited to present at the **DataHub April 2026 Town Hall** alongside engineering teams from **Pinterest** and **Omni**, sharing work on Context Engineering and AI-powered metadata systems.
+- Developed and merged the **Pinecone DB Metadata Ingestion Connector** into the DataHub open-source project.
+- Actively building on top of datahub across AI integrations, metadata workflows, and developer tooling.
+- Invited to present at the **DataHub April 2026 Town Hall** alongside engineering teams from **Pinterest** and **Omni**, sharing work on Context Engineering and AI-powered metadata systems. 
 - Publishing technical articles and implementation guides for the DataHub ecosystem.
 - Recognized as a **Founding DataHub Community Champion** for continued engineering contributions, technical advocacy, and community involvement.
 
@@ -48,7 +48,7 @@ Contributed **13 production-ready community connectors** to the Coral open-sourc
 
 ## Writing
 
-I write practical engineering articles covering AI systems, data platforms, Context Engineering, metadata systems, open source, and enterprise AI.
+I write practical engineering articles covering data platforms, Context Engineering, AI systems, metadata systems, solutions and open source.
 
 **Read on Medium**
 
