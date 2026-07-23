@@ -27,11 +27,11 @@ Contributing to the DataHub ecosystem through building AI enabled solutions on t
 Highlights:
 
 - Built enterprise AI systems on top of DataHub for metadata automation, AI-assisted discovery, and context-aware AI workflows.
-- Developed and merged the **Pinecone DB Metadata Ingestion Connector** into the DataHub open-source project.
+- Developed and merged the *[Pinecone DB Metadata Ingestion Connector](https://github.com/datahub-project/datahub/pull/16472)* into the DataHub open-source project.
 - Actively building on top of datahub across AI integrations, metadata workflows, and developer tooling.
 - Invited to present at the **DataHub April 2026 Town Hall** alongside engineering teams from **Pinterest** and **Omni**, sharing work on Context Engineering and Enterprise Implementation. [Link to the Talk](https://youtu.be/qqFUewpnGYg?t=3775)
 - Publishing technical articles and implementation guides for the DataHub ecosystem.
-- Recognized as a **[Founding DataHub Community Champion](https://datahub.com/champions/)** for continued engineering contributions, technical advocacy, and community involvement.
+- Recognized as a *[Founding DataHub Community Champion](https://datahub.com/champions/)* for continued engineering contributions, technical advocacy, and community involvement.
 
 ---
 
