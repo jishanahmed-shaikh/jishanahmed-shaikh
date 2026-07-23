@@ -19,10 +19,7 @@ Engineer building data platforms, AI systems and contributes to open-source comm
 
 Contributing to the DataHub ecosystem through building AI enabled solutions on top of datahub, enterprise metadata systems, open-source development, technical writing, and community initiatives.
 
-**Project**
-
-- Website: https://datahub.com
-- GitHub: https://github.com/datahub-project/datahub
+**Project** [Website](https://datahub.com) | [GitHub](https://github.com/datahub-project/datahub)
 
 Highlights:
 
@@ -39,10 +36,7 @@ Highlights:
 
 Contributed **13 production-ready community connectors** to the Coral open-source platform, expanding integrations across AI infrastructure (Qdrant, Neo4j, Kestra), data platforms (Apache Airflow, Apache Kafka, Datahub), cloud services (Cloudflare), observability (Langfuse, SigNoz), vector databases (Milvus, Pinecone), and developer tooling (Cal.com, RabbitMQ). *[Contributions](https://github.com/withcoral/coral/pulls?q=is%3Apr+author%3Ajishanahmed-shaikh+is%3Aclosed)*
 
-**Project**
-
-- Website: https://withcoral.com
-- GitHub: https://github.com/withcoral/coral
+**Project** [Website](https://withcoral.com) | [GitHub](https://github.com/withcoral/coral)
 
 ---
 
