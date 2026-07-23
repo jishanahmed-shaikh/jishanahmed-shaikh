@@ -58,12 +58,13 @@ https://medium.com/@jishanmedshaikh
 
 ## Selected Impact
 
-- Founding **DataHub Community Champion**
-- Developed and merged the **Pinecone Metadata Ingestion Connector** into DataHub
-- Developed and merged **13 community connectors** into Coral
+- Recognized as a Founding **DataHub Community Champion**
+- Developed and merged the **Pinecone DB Metadata Ingestion Connector** into DataHub
 - Speaker at the **DataHub April 2026 Town Hall**
+- Developed and merged **13 community connectors** into Coral
 - Built SnapAR experiences reaching **10M+ user impressions**
-- Mentored **3000+ developers** through **50+** technical sessions, workshops, and community events
+- 2x Google Cloud Arcade Program Facilitator - 2025 Cohort
+- Actively Contributes to developer communities through technical sessions, workshops, and community events 
 
 ---
 
