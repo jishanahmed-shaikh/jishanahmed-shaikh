@@ -27,12 +27,9 @@ My work focuses on Data & AI Platforms, Metadata Engineering, Context Engineerin
 
 - Built and merged the **Pinecone DB Metadata Ingestion Connector** into **DataHub**.
   [Contribution](https://github.com/datahub-project/datahub/pull/16472)
-
 - Shared work on **Metadata + Context Engineering** at the **DataHub April 2026 Town Hall** alongside teams from **Pinterest** and **Omni**.
   [Talk](https://www.youtube.com/watch?v=qqFUewpnGYg&t=3775s)
-
 - Contributed to **ProtVista** by improving TypeScript type safety, removing implicit/explicit `any`, and enabling stricter compiler checks across core adapters and components.
-
 - Contributor to **Coral**, building **13+ community connectors** across data platforms, AI infrastructure, vector databases, observability, and cloud systems.
   [Contributions](https://github.com/withcoral/coral/pulls?q=is%3Apr+author%3Ajishanahmed-shaikh+is%3Aclosed)
 
