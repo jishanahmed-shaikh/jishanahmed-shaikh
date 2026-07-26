@@ -1,7 +1,11 @@
 <h1 align="center">Jishanahmed AR Shaikh</h1>
 
 <p align="center">
-Building data platforms, AI systems, and open-source software.
+Data & AI Platform Engineer building metadata-driven AI systems, enterprise intelligence platforms, and open-source infrastructure.
+</p>
+
+<p align="center">
+Metadata Engineering • Context Engineering • AI Solutions • Data Platforms
 </p>
 
 <p align="center">
@@ -13,42 +17,33 @@ Building data platforms, AI systems, and open-source software.
 
 ---
 
+## About
+
+I build systems that connect enterprise data, metadata, and AI applications.
+
+My work focuses on Data & AI Platforms, Metadata Engineering, Context Engineering, and open-source infrastructure. I have built enterprise context platforms, AI applications, RAG systems, and developer tooling.
+
 ## Open Source
 
-### DataHub
+- Built and merged the **Pinecone DB Metadata Ingestion Connector** into **DataHub**.
+- Contributor to **Coral**, building 13+ community connectors across data platforms, AI infrastructure, vector databases, observability, and cloud systems.
+- DataHub Community Champion and speaker at the DataHub April 2026 Town Hall.
 
-Contributing to the DataHub ecosystem by building AI-powered metadata systems, enterprise AI solutions, open-source integrations, technical content, and community initiatives.
+## Impact
 
-**Project** -> [Website](https://datahub.com) • [GitHub](https://github.com/datahub-project/datahub)
-
-Highlights:
-
-- Built enterprise AI systems on top of DataHub for metadata automation, AI-assisted discovery, and context-aware AI workflows.
-- Developed and merged the **[Pinecone Metadata Ingestion Connector](https://github.com/datahub-project/datahub/pull/16472)** into the DataHub open-source project.
-- Actively contribute to AI integrations, metadata workflows, and developer tooling across the DataHub ecosystem.
-- Invited to present at the **DataHub April 2026 Town Hall** alongside engineering teams from **Pinterest** and **Omni**, sharing work on Context Engineering and enterprise AI implementations. **[Watch the Talk](https://youtu.be/qqFUewpnGYg?t=3775)**
-- Publish technical articles and implementation guides to help developers build with DataHub.
-- Recognized as a **[Founding DataHub Community Champion](https://datahub.com/champions/)** for continued engineering contributions, technical advocacy, and community involvement.
-
----
-
-### Coral
-
-Contributed **13 production-ready community connectors** to the Coral open-source platform, expanding integrations across AI infrastructure, data platforms, cloud services, observability, vector databases, and developer tooling.
-
-**Project** -> [Website](https://withcoral.com) • [GitHub](https://github.com/withcoral/coral)
-
-[**View Contributions**](https://github.com/withcoral/coral/pulls?q=is%3Apr+author%3Ajishanahmed-shaikh+is%3Aclosed)
-
----
+- Built Snap AR experiences reaching **10M+ users** on Snapchat.
+- Google Cloud Arcade Facilitator impacting **3,000+ developers**.
+- Grand Finalist — XR Creator Hackathon, WAVES Summit 2025.
 
 ## Writing
 
-I write practical engineering articles documenting architecture decisions, implementation guides, and real-world AI systems across data platforms, metadata systems, Context Engineering, enterprise AI, and open source.
+Writing about Data Platforms, Metadata Engineering, Context Engineering, and Enterprise AI.
 
-[*Read on Medium*](https://medium.com/@jishanahmedshaikh)
+→ Medium: medium.com/@jishanahmedshaikh
 
 ---
+
+Building the infrastructure layer where Data, Metadata, and AI come together.
 
 ## Selected Impact
 
