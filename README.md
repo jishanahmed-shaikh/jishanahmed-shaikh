@@ -31,11 +31,9 @@ My work focuses on Data & AI Platforms, Metadata Engineering, Context Engineerin
 
 ## Selected Impact
 
-- Founding **DataHub Community Champion**
-- Speaker at the **DataHub April 2026 Town Hall**
+- Founding **DataHub Community Champion** 
 - Built **SnapAR** experiences reaching **10M+ user impressions**
 - **Grand Finalist (Top 40)** XR Creator Hackathon @ WAVES Summit 2025, Ministry of Information & Broadcasting, Government of India
-- 10+ Hackathon Wins across Local/National/International Hacks
 - **2x Google Cloud Arcade Program Facilitator (2025)**
 - Active Contributor to developer communities through technical talks, workshops, and open-source initiatives
 
