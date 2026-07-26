@@ -5,7 +5,7 @@ Data & AI Platform Engineer building metadata-driven AI systems, enterprise inte
 </p>
 
 <p align="center">
-Metadata Engineering • Context Engineering • AI Solutions • Data Platforms
+Data Engineering • Development • Context Engineering • AI Solutions • Metadata
 </p>
 
 <p align="center">
