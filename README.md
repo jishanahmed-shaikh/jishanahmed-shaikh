@@ -25,17 +25,22 @@ My work focuses on Data & AI Platforms, Metadata Engineering, Context Engineerin
 
 ## Open Source
 
-- Built and merged the **Pinecone DB Metadata Ingestion Connector** into **DataHub**. [Contribution](https://github.com/datahub-project/datahub/pull/16472)
-- Contributor to **Coral**, building 13+ community connectors across data platforms, AI infrastructure, vector databases, observability, and cloud systems. [Contributions](https://github.com/withcoral/coral/pulls?q=is%3Apr+author%3Ajishanahmed-shaikh+is%3Aclosed)
-- Invited to Speak at the Datahub April 2026 Town Hall alongside teams from Pinterest and Omni. [Talk](https://www.youtube.com/watch?v=qqFUewpnGYg&t=3775s)
+- Built and merged the **Pinecone DB Metadata Ingestion Connector** into **DataHub**.
+  [Contribution](https://github.com/datahub-project/datahub/pull/16472)
 
-## Selected Impact
+- Contributor to **Coral**, building **13+ community connectors** across data platforms, AI infrastructure, vector databases, observability, and cloud systems.
+  [Contributions](https://github.com/withcoral/coral/pulls?q=is%3Apr+author%3Ajishanahmed-shaikh+is%3Aclosed)
 
-- Recognized as a Founding **DataHub Community Champion** 
-- Built **SnapAR** experiences reaching **10M+ user impressions**
-- **Grand Finalist (Top 40)** XR Creator Hackathon @ WAVES Summit 2025, Ministry of Information & Broadcasting, Government of India
-- **2x Google Cloud Arcade Program Facilitator (2025)**
-- Active Contributor to developer communities through technical talks, workshops, and open-source initiatives
+- Shared work on **Metadata + Context Engineering** at the **DataHub April 2026 Town Hall** alongside teams from **Pinterest** and **Omni**.
+  [Talk](https://www.youtube.com/watch?v=qqFUewpnGYg&t=3775s)
+
+## Impact
+
+- Founding **DataHub Community Champion**
+- Built **Snap AR** experiences reaching **10M+ users**
+- **Grand Finalist (Top 40)** XR Creator Hackathon @ WAVES Summit 2025
+- **2x Google Cloud Arcade Facilitator (2025)**
+- Open-source contributor, technical speaker, and community builder
 
 ## Writing
 
@@ -45,4 +50,4 @@ Writing about Data Platforms, Metadata Engineering, Context Engineering, and Ent
 
 ---
 
-Building the infrastructure layer where Data, Metadata, and AI come together.
+Building the infrastructure layer where **Data, Metadata, and AI** come together.
