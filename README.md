@@ -33,13 +33,13 @@ My work focuses on Data & AI Platforms, Metadata Engineering, Context Engineerin
 
 - Built Snap AR experiences reaching **10M+ users** on Snapchat.
 - Google Cloud Arcade Facilitator impacting **3,000+ developers**.
-- Grand Finalist — XR Creator Hackathon, WAVES Summit 2025.
+- Grand Finalist - XR Creator Hackathon, WAVES Summit 2025.
 
 ## Writing
 
 Writing about Data Platforms, Metadata Engineering, Context Engineering, and Enterprise AI.
 
-→ Medium: medium.com/@jishanahmedshaikh
+→ [Medium](https://medium.com/@jishanahmedshaikh)
 
 ---
 
