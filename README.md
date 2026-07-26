@@ -19,7 +19,7 @@ Data Platforms • AI Infrastructure • Metadata • Context Engineering • Op
 
 ## About
 
-I build systems that connect enterprise data, metadata, and AI applications.
+I build systems and solutions that connect enterprise data, metadata, and AI applications.
 
 My work focuses on Data & AI Platforms, Metadata Engineering, Context Engineering, and open-source infrastructure. I have built metadata-driven enterprise context platforms, AI applications, RAG systems, and developer tooling.
 
