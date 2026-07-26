@@ -27,7 +27,7 @@ My work focuses on Data & AI Platforms, Metadata Engineering, Context Engineerin
 
 - Built and merged the **Pinecone DB Metadata Ingestion Connector** into **DataHub**. [Contribution](https://github.com/datahub-project/datahub/pull/16472)
 - Contributor to **Coral**, building 13+ community connectors across data platforms, AI infrastructure, vector databases, observability, and cloud systems. [Contributions](https://github.com/withcoral/coral/pulls?q=is%3Apr+author%3Ajishanahmed-shaikh+is%3Aclosed)
-- DataHub Community Champion and spoke at the DataHub April 2026 Town Hall alongside teams from Pinterest and Omni. [Talk](https://www.youtube.com/watch?v=qqFUewpnGYg&t=3775s)
+- DataHub Community Champion and spoke at the April 2026 Town Hall alongside teams from Pinterest and Omni. [Talk](https://www.youtube.com/watch?v=qqFUewpnGYg&t=3775s)
 
 ## Writing
 
