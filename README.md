@@ -55,14 +55,4 @@ Building the infrastructure layer where Data, Metadata, and AI come together.
 - **Grand Finalist (Top 40)** XR Creator Hackathon @ WAVES Summit 2025, Ministry of Information & Broadcasting, Government of India
 - **2x Google Cloud Arcade Program Facilitator (2025)**
 - Contributed to developer communities through technical talks, workshops, and open-source initiatives
-
----
-
-## Featured Projects
-
-- **OversightAI**: Open-source platform for AI governance, context management, evaluation, and observability.
-- **CrewAI Agentic AI Framework**: Reference framework for building and teaching production-ready multi-agent AI systems using CrewAI.
-- **FinSage**: End to End Financial intelligence platform combining market analytics, portfolio insights, and conversational AI.
-- **XR Creator Submission**: Markerless AR Car Showroom experience built with Unity and Vuforia for the XR Creator Hackathon.
-
----
+  
