@@ -48,6 +48,3 @@ Writing about Data Platforms, Metadata Engineering, Context Engineering, and Ent
 ---
 
 Building the infrastructure layer where Data, Metadata, and AI come together.
-
-
-  
