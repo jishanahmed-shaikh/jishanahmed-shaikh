@@ -21,13 +21,23 @@ Data Platforms • AI Infrastructure • Metadata • Context Engineering • Op
 
 I build systems that connect enterprise data, metadata, and AI applications.
 
-My work focuses on Data & AI Platforms, Metadata Engineering, Context Engineering, and open-source infrastructure. I have built enterprise context platforms, AI applications, RAG systems, and developer tooling.
+My work focuses on Data & AI Platforms, Metadata Engineering, Context Engineering, and open-source infrastructure. I have built metadata-driven enterprise context platforms, AI applications, RAG systems, and developer tooling.
 
 ## Open Source
 
 - Built and merged the **Pinecone DB Metadata Ingestion Connector** into **DataHub**. [Contribution](https://github.com/datahub-project/datahub/pull/16472)
 - Contributor to **Coral**, building 13+ community connectors across data platforms, AI infrastructure, vector databases, observability, and cloud systems. [Contributions](https://github.com/withcoral/coral/pulls?q=is%3Apr+author%3Ajishanahmed-shaikh+is%3Aclosed)
 - DataHub Community Champion and spoke at the April 2026 Town Hall alongside teams from Pinterest and Omni. [Talk](https://www.youtube.com/watch?v=qqFUewpnGYg&t=3775s)
+
+## Selected Impact
+
+- Founding **DataHub Community Champion**
+- Speaker at the **DataHub April 2026 Town Hall**
+- Built **SnapAR** experiences reaching **10M+ user impressions**
+- **Grand Finalist (Top 40)** XR Creator Hackathon @ WAVES Summit 2025, Ministry of Information & Broadcasting, Government of India
+- 10+ Hackathon Wins across Local/National/International Hacks
+- **2x Google Cloud Arcade Program Facilitator (2025)**
+- Active Contributor to developer communities through technical talks, workshops, and open-source initiatives
 
 ## Writing
 
@@ -39,13 +49,5 @@ Writing about Data Platforms, Metadata Engineering, Context Engineering, and Ent
 
 Building the infrastructure layer where Data, Metadata, and AI come together.
 
-## Selected Impact
 
-- Founding **DataHub Community Champion**
-- Speaker at the **DataHub April 2026 Town Hall**
-- Built **SnapAR** experiences reaching **10M+ user impressions**
-- **Grand Finalist (Top 40)** XR Creator Hackathon @ WAVES Summit 2025, Ministry of Information & Broadcasting, Government of India
-- 10+ Hackathon Wins across Local/National/International Hacks
-- **2x Google Cloud Arcade Program Facilitator (2025)**
-- Active Contributor to developer communities through technical talks, workshops, and open-source initiatives
   
