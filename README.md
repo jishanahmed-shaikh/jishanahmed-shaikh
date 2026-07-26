@@ -43,10 +43,9 @@ Building the infrastructure layer where Data, Metadata, and AI come together.
 
 - Founding **DataHub Community Champion**
 - Speaker at the **DataHub April 2026 Town Hall**
-- Developed and merged the **Pinecone DB Metadata Ingestion Connector** into DataHub
-- Developed and merged **13 production-ready community connectors** into Coral
 - Built **SnapAR** experiences reaching **10M+ user impressions**
 - **Grand Finalist (Top 40)** XR Creator Hackathon @ WAVES Summit 2025, Ministry of Information & Broadcasting, Government of India
+- 10+ Hackathon Local/National/International Hacks
 - **2x Google Cloud Arcade Program Facilitator (2025)**
 - Contributed to developer communities through technical talks, workshops, and open-source initiatives
   
