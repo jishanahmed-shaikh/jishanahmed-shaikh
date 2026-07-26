@@ -29,12 +29,6 @@ My work focuses on Data & AI Platforms, Metadata Engineering, Context Engineerin
 - Contributor to **Coral**, building 13+ community connectors across data platforms, AI infrastructure, vector databases, observability, and cloud systems.
 - DataHub Community Champion and speaker at the DataHub April 2026 Town Hall.
 
-## Impact
-
-- Built Snap AR experiences reaching **10M+ users** on Snapchat.
-- Google Cloud Arcade Facilitator impacting **3,000+ developers**.
-- Grand Finalist - XR Creator Hackathon, WAVES Summit 2025.
-
 ## Writing
 
 Writing about Data Platforms, Metadata Engineering, Context Engineering, and Enterprise AI.
