@@ -37,7 +37,7 @@ My work focuses on Data & AI Platforms, Metadata Engineering, Context Engineerin
 
 - Founding **DataHub Community Champion**
 - Built **Snap AR** experiences reaching **10M+ user impressions**
-- **Grand Finalist (Top 40)** XR Creator Hackathon @ WAVES Summit 2025
+- **Grand Finalist (Top 40)** XR Creator Hackathon @ WAVES Summit 2025, Ministry of Information & Broadcast - India
 - **2x Google Cloud Arcade Facilitator (2025)**
 - Open-source contributor, technical speaker, and community builder
 
