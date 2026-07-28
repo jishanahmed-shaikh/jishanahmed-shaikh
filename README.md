@@ -43,7 +43,7 @@ My work focuses on Data & AI Platforms, Metadata Engineering, Context Engineerin
 
 ## Writing
 
-Writing about Data Platforms, Metadata Engineering, Context Engineering, and Enterprise AI.
+Writing about Data Platforms, Metadata Engineering, Context Engineering, AI and Technical guides.
 
 → [Medium](https://medium.com/@jishanahmedshaikh)
 
