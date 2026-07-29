@@ -20,7 +20,7 @@ I build metadata-driven AI systems, enterprise intelligence platforms, and devel
 - Grand Finalist (Top 40) — XR Creator Hackathon @ WAVES Summit 2025 by Ministry of Information & Broadcast, India [LOR](https://drive.google.com/file/d/13Ie94tAE9pRy65RZEl8l04n6rOXpBqmT/view?usp=sharing)
 - 2× Google Cloud Arcade Facilitator (2025)
 - Technical writer, open-source contributor, and community builder
-- Writes about Data Platforms, Metadata Engineering, Context Engineering, AI, Technical Guides, and developer tooling @ [Medium](https://medium.com/@jishanahmedshaikh)
+- Writes about Data Platforms, Metadata Engineering, Context Engineering, AI, Technical Guides, and developer tooling -> [Medium](https://medium.com/@jishanahmedshaikh)
   
 ---
 
