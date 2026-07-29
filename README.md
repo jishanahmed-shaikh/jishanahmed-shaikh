@@ -3,7 +3,7 @@
 **Data & AI Platform Engineer**  
 Data Platforms | AI Infrastructure | Metadata and Context Engineering | Open Source | XR/AR Enthusiast
 
-[Portfolio](https://www.jishanahmed.in) • [Medium](https://medium.com/@jishanahmedshaikh) • [LinkedIn](https://www.linkedin.com/in/jishanahmedshaikh) • [Mail](jishanahmedshaikh@gmail.com)
+[Portfolio](https://www.jishanahmed.in) • [Medium](https://medium.com/@jishanahmedshaikh) • [LinkedIn](https://www.linkedin.com/in/jishanahmedshaikh) • [Mail](mailto:jishanahmedshaikh@gmail.com)
 
 ---
 
