@@ -1,20 +1,16 @@
 <p align="center">
-  <a href="https://datahub.com/context/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:F7FBFF,100:E3F1FF&height=180&section=header&text=DataHub%20CONTEXT%202026%20Summit&fontSize=36&fontColor=002131&fontAlignY=36&desc=%F0%9F%8E%A4%20I'm%20Speaking%20%7C%20Track%203%3A%20OSS%20Innovation%20%7C%20Nov%204%2C%202026&descSize=16&descAlignY=56&animation=fadeIn" alt="DataHub CONTEXT 2026 Summit"/>
-  </a>
+  <a href="https://datahub.com/context/"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F62C9,50:1890FF,100:40A9FF&height=260&section=header&text=DataHub%20CONTEXT%202026&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=I'm%20speaking%20%20%7C%20%20Track%203%3A%20OSS%20Innovation%20%20%7C%20%20Nov%204%2C%202026&descSize=18&descAlignY=54&animation=fadeIn" alt="DataHub CONTEXT 2026 Summit"/></a>
 </p>
 
 <p align="center">
-  <a href="https://datahub.com/context/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=1890FF&center=true&vCenter=true&width=720&lines=Building+a+Production-Ready+DataHub+Connector;with+datahub-skills+in+under+30+minutes;See+you+at+CONTEXT+2026!" alt="Talk title"/>
-  </a>
+  <a href="https://datahub.com/context/"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=760&lines=Building+a+Production-Ready+DataHub+Connector;with+datahub-skills+in+under+30+minutes" alt="Building a Production-Ready DataHub Connector with datahub-skills in under 30 minutes"/></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%94%B4%20STATUS-UPCOMING-FF5A3C?style=for-the-badge&labelColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/%F0%9F%93%85%20DATE-NOV%204%2C%202026-1890FF?style=for-the-badge&labelColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/%F0%9F%A7%A9%20TRACK%203-OSS%20INNOVATION-1890FF?style=for-the-badge&labelColor=FFFFFF"/>
-  <a href="https://datahub.com/context/"><img src="https://img.shields.io/badge/%E2%9C%A8%20SAVE%20YOUR%20SEAT-REGISTER-FF5A3C?style=for-the-badge&labelColor=FFFFFF"/></a>
+  <a href="https://datahub.com/context/"><img src="https://img.shields.io/badge/Status-Upcoming-FF5A3C?style=for-the-badge&labelColor=FFFFFF" alt="Status: Upcoming"/></a>
+  <a href="https://datahub.com/context/"><img src="https://img.shields.io/badge/Track%203-OSS%20Innovation-1890FF?style=for-the-badge&labelColor=FFFFFF" alt="Track 3: OSS Innovation"/></a>
+  <a href="https://datahub.com/context/"><img src="https://img.shields.io/badge/Date-Nov%204%2C%202026-1890FF?style=for-the-badge&labelColor=FFFFFF" alt="Date: Nov 4, 2026"/></a>
+  <a href="https://datahub.com/context/"><img src="https://img.shields.io/badge/Register-Save%20your%20seat-FF5A3C?style=for-the-badge&labelColor=FFFFFF" alt="Register"/></a>
 </p>
 
 # Jishanahmed AR Shaikh (JARS)
