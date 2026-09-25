@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://datahub.com/context/"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F62C9,50:1890FF,100:40A9FF&height=260&section=header&text=%20CONTEXT%202026&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Speaker%20Session%20%20%20%7C%20%20Track%203%3A%20OSS%20Innovation%20%20%7C%20%20Nov%204%2C%202026&descSize=18&descAlignY=54&animation=fadeIn" alt="DataHub CONTEXT 2026 Summit"/></a>
+  <a href="https://datahub.com/context/"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F62C9,50:1890FF,100:40A9FF&height=260&section=header&text=%20CONTEXT%202026&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=I'll%20be%20Speaking%20%20%20%7C%20%20Track%203%3A%20OSS%20Innovation%20%20%7C%20%20Nov%204%2C%202026&descSize=18&descAlignY=54&animation=fadeIn" alt="DataHub CONTEXT 2026 Summit"/></a>
 </p>
 
 <p align="center">
