@@ -25,7 +25,7 @@ I build metadata-driven AI systems, enterprise intelligence platforms, and devel
 
 ### Highlights
 
-- Built and merged the Pinecone Metadata Ingestion Connector into DataHub [PR](https://github.com/datahub-project/datahub/pull/16472)
+- Built and merged the Pinecone Metadata and Langfuse Ingestion Connector into DataHub [Pinecone PR](https://github.com/datahub-project/datahub/pull/16472) [Langfuse PR](https://github.com/datahub-project/datahub/pull/19923)
 - Contributor to Coral with **13+ PLATFORM Connectors** across AI, data, cloud, observability, and vector databases [Contributions](https://github.com/withcoral/coral/pulls?q=is%3Apr+author%3Ajishanahmed-shaikh+is%3Aclosed)
 - Contributed to ProtVista by improving TypeScript type safety and stricter compiler checks [PR](https://github.com/ebi-webcomponents/protvista/pull/137)
 - Speaker at the DataHub April 2026 Town Hall on Metadata, AI Implementation & Context Engineering alongside teams from Pinterest and Omni [Talk](https://www.youtube.com/watch?v=qqFUewpnGYg&t=3775s)
