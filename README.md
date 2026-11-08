@@ -1,18 +1,3 @@
-<p align="center">
-  <a href="https://datahub.com/context/"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F62C9,50:1890FF,100:40A9FF&height=260&section=header&text=%20CONTEXT%202026&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=I'll%20be%20Speaking%20%20%20%7C%20%20Track%203%3A%20OSS%20Innovation%20%20%7C%20%20Nov%204%2C%202026&descSize=18&descAlignY=54&animation=fadeIn" alt="DataHub CONTEXT 2026 Summit"/></a>
-</p>
-
-<p align="center">
-  <a href="https://datahub.com/context/"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=760&lines=Building+a+Production-Ready+DataHub+Connector;with+datahub-skills+in+under+30+minutes" alt="Building a Production-Ready DataHub Connector with datahub-skills in under 30 minutes"/></a>
-</p>
-
-<p align="center">
-  <a href="https://datahub.com/context/"><img src="https://img.shields.io/badge/Status-Upcoming-FF5A3C?style=for-the-badge&labelColor=FFFFFF" alt="Status: Upcoming"/></a>
-  <a href="https://datahub.com/context/"><img src="https://img.shields.io/badge/Track%203-OSS%20Innovation-1890FF?style=for-the-badge&labelColor=FFFFFF" alt="Track 3: OSS Innovation"/></a>
-  <a href="https://datahub.com/context/"><img src="https://img.shields.io/badge/Date-Nov%204%2C%202026-1890FF?style=for-the-badge&labelColor=FFFFFF" alt="Date: Nov 4, 2026"/></a>
-  <a href="https://datahub.com/context/"><img src="https://img.shields.io/badge/Register-Save%20your%20seat-FF5A3C?style=for-the-badge&labelColor=FFFFFF" alt="Register"/></a>
-</p>
-
 # Jishanahmed AR Shaikh (JARS)
 
 **Data & AI Platform Engineer** : Data Platforms | AI Infrastructure | Metadata and Context Engineering | Open Source | XR/AR Enthusiast
