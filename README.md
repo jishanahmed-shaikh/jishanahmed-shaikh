@@ -10,11 +10,12 @@ I build metadata-driven AI systems, enterprise intelligence platforms, and devel
 
 ### Highlights
 
+- Founding DataHub MVP - Champion [Visit](https://datahub.com/community/champions)
+- Speaker at the DataHub Context Summit 2026 Track 3 : OSS Innovation Building a Production-Ready DataHub Connector with datahub-skills in under 30 minutes [Watch on Demand](https://datahub.com/webinars/datahub-connector-datahub-skills/)
+- Speaker at the DataHub April 2026 Town Hall on Metadata, AI Implementation & Context Engineering alongside teams from Pinterest and Omni [Talk](https://www.youtube.com/watch?v=qqFUewpnGYg&t=3775s)
 - Built and merged the Pinecone DB and Langfuse Ingestion Connector into DataHub [Pinecone PR](https://github.com/datahub-project/datahub/pull/16472) [Langfuse PR](https://github.com/datahub-project/datahub/pull/19923)
 - Contributor to Coral with **13+ PLATFORM Connectors** across AI, data, cloud, observability, and vector databases [Contributions](https://github.com/withcoral/coral/pulls?q=is%3Apr+author%3Ajishanahmed-shaikh+is%3Aclosed)
 - Contributed to ProtVista by improving TypeScript type safety and stricter compiler checks [PR](https://github.com/ebi-webcomponents/protvista/pull/137)
-- Speaker at the DataHub April 2026 Town Hall on Metadata, AI Implementation & Context Engineering alongside teams from Pinterest and Omni [Talk](https://www.youtube.com/watch?v=qqFUewpnGYg&t=3775s)
-- Founding DataHub MVP - Champion [Visit](https://datahub.com/community/champions)
 - Built Snap AR experiences with **10M+ user impressions**
 - Grand Finalist (Top 40) - XR Creator Hackathon @ WAVES Summit 2025 by Ministry of Information & Broadcast, India [LOR](https://drive.google.com/file/d/13Ie94tAE9pRy65RZEl8l04n6rOXpBqmT/view?usp=sharing)
 - 2× Google Cloud Arcade Facilitator (2025)
