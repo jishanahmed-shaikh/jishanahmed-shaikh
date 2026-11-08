@@ -11,7 +11,7 @@ I build metadata-driven AI systems, enterprise intelligence platforms, and devel
 ### Highlights
 
 - Founding DataHub MVP - Champion [Visit](https://datahub.com/community/champions)
-- Speaker at the DataHub Context Summit 2026 Track 3 : OSS Innovation Building a Production-Ready DataHub Connector with datahub-skills in under 30 minutes [Watch on Demand](https://datahub.com/webinars/datahub-connector-datahub-skills/)
+- Speaker at the DataHub Context Summit 2026 [Visit](https://datahub.com/context/) | Track 3 : OSS Innovation Building a Production-Ready DataHub Connector with datahub-skills in under 30 minutes [Watch on Demand](https://datahub.com/webinars/datahub-connector-datahub-skills/)
 - Speaker at the DataHub April 2026 Town Hall on Metadata, AI Implementation & Context Engineering alongside teams from Pinterest and Omni [Talk](https://www.youtube.com/watch?v=qqFUewpnGYg&t=3775s)
 - Built and merged the Pinecone DB and Langfuse Ingestion Connector into DataHub [Pinecone PR](https://github.com/datahub-project/datahub/pull/16472) [Langfuse PR](https://github.com/datahub-project/datahub/pull/19923)
 - Contributor to Coral with **13+ PLATFORM Connectors** across AI, data, cloud, observability, and vector databases [Contributions](https://github.com/withcoral/coral/pulls?q=is%3Apr+author%3Ajishanahmed-shaikh+is%3Aclosed)
